@@ -1,0 +1,8 @@
+# Research pipeline (scripts/) and the planner export (scripts/export_demo.py, app/data.py)
+pandas>=2.0
+numpy
+scikit-learn
+shap
+matplotlib
+plotly
+h5py  # scripts/experiments/smap_extract.py only

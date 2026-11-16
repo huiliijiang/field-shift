@@ -1,0 +1,6 @@
+check,passed,detail
+ndvi_dev uses training years only,True,max change in non-test rows after +99 to test-year NDVI = 0.0
+soil features static,True,"10 rows, unique RM=True, year column=False, max distinct values per RM across years=1"
+no NDVI in PRE/IN base lists,True,overlap=[]
+main model adds NDEV only for in-season set,True,"pre_season feats = PRE (no IN), so no NDVI or soil x weather there"
+2027 scenarios use no NDVI,True,"forecast.FEATS has 18 columns, NDVI overlap=[]"

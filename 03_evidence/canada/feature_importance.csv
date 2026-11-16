@@ -1,0 +1,14 @@
+feature,mean_abs_shap,corr_value_vs_shap,label
+tmax_jul,0.0661767575844887,-0.8432753157415576,July mean max temp (°C)
+rain_may_jun,0.0500978931737698,0.32061631321984996,May–Jun rain (mm)
+hot_days_flower,0.041567557746306064,-0.7728735260110305,Days > 30 °C at flowering
+oni_son_prev,0.027131027299321,0.2265981581077078,"El Niño index, prev. autumn"
+wet_root_may,0.024587569926849684,-0.8015136547277011,"Root soil wetness, May 1"
+last_spring_frost,0.018951547715747384,-0.5677775828155508,Last spring frost (day of year)
+rain_jul_aug,0.016725674135555105,-0.08412717300199005,Jul–Aug rain (mm)
+wet_root_min,0.01596728024124717,0.18027290617283226,"Lowest root soil wetness, summer"
+rain_fall_winter,0.014779986477813627,0.18837251989415899,Fall–winter rain (mm)
+oni_djf,0.012262924402070744,-0.41110467194919514,"El Niño index, winter"
+first_fall_frost,0.009609926218910414,0.4449081981593322,First fall frost (day of year)
+gdd_may_aug,0.008756002913227803,0.1584191293846455,Growing degree days
+dry_spell_max,0.007502143636345434,-0.16473575278016417,Longest dry spell (days)

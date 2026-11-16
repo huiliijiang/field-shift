@@ -1,0 +1,3960 @@
+year,rm,crop,yield
+1995,5,Winter Wheat,27.0
+1996,5,Winter Wheat,25.0
+1999,5,Winter Wheat,25.0
+2000,5,Winter Wheat,50.0
+2001,5,Winter Wheat,25.0
+2002,5,Winter Wheat,15.0
+2003,5,Winter Wheat,35.0
+2010,5,Winter Wheat,48.5
+2012,5,Winter Wheat,45.0
+2013,5,Winter Wheat,33.4
+2014,5,Winter Wheat,17.86
+2015,5,Winter Wheat,34.31
+2016,5,Winter Wheat,50.1
+1998,67,Winter Wheat,35.0
+1999,67,Winter Wheat,40.0
+2000,67,Winter Wheat,30.0
+2001,67,Winter Wheat,32.0
+2002,67,Winter Wheat,25.0
+2003,67,Winter Wheat,30.0
+2005,67,Winter Wheat,35.0
+2006,67,Winter Wheat,42.0
+2008,67,Winter Wheat,34.3
+2009,67,Winter Wheat,45.0
+2010,67,Winter Wheat,45.0
+2011,67,Winter Wheat,40.8
+2012,67,Winter Wheat,58.1
+2013,67,Winter Wheat,47.0
+2014,67,Winter Wheat,57.18
+2015,67,Winter Wheat,42.51
+2016,67,Winter Wheat,59.8
+2017,67,Winter Wheat,28.61
+2018,67,Winter Wheat,33.0
+2019,67,Winter Wheat,48.0
+2020,67,Winter Wheat,49.0
+2021,67,Winter Wheat,31.0
+1992,137,Winter Wheat,25.0
+1994,137,Winter Wheat,30.0
+1995,137,Winter Wheat,35.0
+1996,137,Winter Wheat,25.0
+1997,137,Winter Wheat,31.2
+1998,137,Winter Wheat,27.0
+2005,137,Winter Wheat,44.9
+2011,159,Winter Wheat,27.7
+2012,159,Winter Wheat,69.0
+2013,159,Winter Wheat,59.0
+2014,159,Winter Wheat,53.82
+2022,159,Winter Wheat,40.6
+1995,161,Winter Wheat,25.0
+2007,161,Winter Wheat,45.5
+2009,161,Winter Wheat,44.4
+2013,161,Winter Wheat,28.9
+2015,161,Winter Wheat,21.17
+2017,161,Winter Wheat,37.38
+1998,244,Winter Wheat,27.9
+2004,244,Winter Wheat,50.0
+2007,244,Winter Wheat,51.4
+2010,244,Winter Wheat,28.0
+2011,244,Winter Wheat,50.0
+2012,244,Winter Wheat,46.0
+2013,244,Winter Wheat,48.3
+2015,244,Winter Wheat,29.31
+2016,244,Winter Wheat,60.0
+2005,290,Winter Wheat,48.9
+2007,290,Winter Wheat,49.6
+2010,290,Winter Wheat,36.0
+2011,290,Winter Wheat,50.7
+2012,290,Winter Wheat,30.0
+2013,290,Winter Wheat,38.8
+2015,290,Winter Wheat,26.19
+2016,290,Winter Wheat,50.0
+2000,344,Winter Wheat,42.5
+2004,344,Winter Wheat,28.1
+2008,344,Winter Wheat,25.0
+2011,344,Winter Wheat,51.4
+2013,344,Winter Wheat,40.0
+2015,344,Winter Wheat,50.0
+2016,344,Winter Wheat,40.0
+2021,344,Winter Wheat,15.0
+2022,344,Winter Wheat,30.0
+2011,437,Winter Wheat,52.6
+2013,437,Winter Wheat,60.2
+1992,461,Winter Wheat,15.0
+1993,461,Winter Wheat,20.0
+1994,461,Winter Wheat,25.0
+1995,461,Winter Wheat,20.0
+2011,461,Winter Wheat,53.3
+2012,461,Winter Wheat,35.0
+2013,461,Winter Wheat,37.0
+2015,461,Winter Wheat,35.88
+1981,5,Canola,18.0
+1982,5,Canola,17.0
+1983,5,Canola,10.0
+1984,5,Canola,10.0
+1985,5,Canola,10.0
+1986,5,Canola,27.5
+1987,5,Canola,10.0
+1988,5,Canola,12.0
+1989,5,Canola,6.0
+1992,5,Canola,30.0
+1994,5,Canola,19.5
+1995,5,Canola,17.0
+1996,5,Canola,23.6
+1997,5,Canola,15.1
+1998,5,Canola,19.6
+1999,5,Canola,18.0
+2000,5,Canola,24.9
+2001,5,Canola,17.9
+2002,5,Canola,13.4
+2003,5,Canola,7.7
+2004,5,Canola,25.6
+2005,5,Canola,24.0
+2006,5,Canola,20.9
+2007,5,Canola,22.1
+2008,5,Canola,23.4
+2009,5,Canola,33.0
+2010,5,Canola,29.8
+2011,5,Canola,17.2
+2012,5,Canola,26.8
+2013,5,Canola,35.1
+2014,5,Canola,31.02
+2015,5,Canola,30.6
+2016,5,Canola,32.1
+2017,5,Canola,24.72
+2018,5,Canola,29.9
+2019,5,Canola,33.9
+2020,5,Canola,34.8
+2021,5,Canola,28.7
+2022,5,Canola,42.2
+2023,5,Canola,23.9
+2024,5,Canola,29.5
+2025,5,Canola,47.6
+1982,67,Canola,21.0
+1983,67,Canola,17.7
+1984,67,Canola,4.0
+1985,67,Canola,9.0
+1986,67,Canola,22.3
+1987,67,Canola,27.5
+1988,67,Canola,2.0
+1989,67,Canola,6.0
+1993,67,Canola,30.0
+1994,67,Canola,23.0
+1995,67,Canola,23.1
+1996,67,Canola,27.0
+1997,67,Canola,9.4
+1998,67,Canola,24.6
+1999,67,Canola,24.6
+2000,67,Canola,23.7
+2001,67,Canola,20.4
+2002,67,Canola,14.7
+2003,67,Canola,7.6
+2004,67,Canola,29.9
+2005,67,Canola,27.7
+2006,67,Canola,22.3
+2007,67,Canola,27.5
+2008,67,Canola,26.6
+2009,67,Canola,33.6
+2010,67,Canola,28.5
+2011,67,Canola,18.9
+2012,67,Canola,22.1
+2013,67,Canola,37.9
+2014,67,Canola,32.61
+2015,67,Canola,27.13
+2016,67,Canola,35.5
+2017,67,Canola,19.96
+2018,67,Canola,29.5
+2019,67,Canola,30.2
+2020,67,Canola,32.8
+2021,67,Canola,20.6
+2022,67,Canola,41.2
+2023,67,Canola,29.8
+2024,67,Canola,25.6
+2025,67,Canola,44.7
+1989,137,Canola,25.0
+1990,137,Canola,15.0
+1992,137,Canola,15.0
+1993,137,Canola,25.0
+1994,137,Canola,19.0
+1995,137,Canola,20.6
+1996,137,Canola,27.4
+1997,137,Canola,21.3
+1998,137,Canola,21.9
+1999,137,Canola,27.4
+2000,137,Canola,27.0
+2001,137,Canola,12.2
+2002,137,Canola,25.1
+2003,137,Canola,13.7
+2004,137,Canola,31.1
+2005,137,Canola,18.8
+2006,137,Canola,20.6
+2007,137,Canola,9.7
+2008,137,Canola,35.3
+2010,137,Canola,36.4
+2011,137,Canola,36.6
+2012,137,Canola,29.0
+2013,137,Canola,40.4
+2014,137,Canola,40.4
+2015,137,Canola,39.42
+2016,137,Canola,53.3
+2017,137,Canola,30.31
+2018,137,Canola,27.0
+2019,137,Canola,44.0
+2020,137,Canola,40.3
+2021,137,Canola,15.9
+2022,137,Canola,30.5
+2023,137,Canola,19.7
+2024,137,Canola,17.7
+2025,137,Canola,44.1
+1982,159,Canola,22.0
+1983,159,Canola,17.7
+1984,159,Canola,9.7
+1985,159,Canola,15.0
+1986,159,Canola,23.3
+1987,159,Canola,20.0
+1988,159,Canola,8.0
+1989,159,Canola,9.0
+1992,159,Canola,30.0
+1993,159,Canola,20.0
+1994,159,Canola,26.2
+1995,159,Canola,19.9
+1996,159,Canola,24.9
+1997,159,Canola,18.9
+1998,159,Canola,14.6
+1999,159,Canola,30.3
+2000,159,Canola,24.6
+2001,159,Canola,20.5
+2002,159,Canola,11.1
+2003,159,Canola,17.6
+2004,159,Canola,37.0
+2005,159,Canola,38.8
+2006,159,Canola,28.4
+2007,159,Canola,26.3
+2008,159,Canola,39.4
+2009,159,Canola,37.9
+2010,159,Canola,36.0
+2011,159,Canola,27.7
+2012,159,Canola,33.0
+2013,159,Canola,42.5
+2014,159,Canola,32.07
+2015,159,Canola,41.81
+2016,159,Canola,48.2
+2017,159,Canola,27.52
+2018,159,Canola,38.8
+2019,159,Canola,49.2
+2020,159,Canola,46.4
+2021,159,Canola,17.8
+2022,159,Canola,48.1
+2023,159,Canola,47.4
+2024,159,Canola,42.9
+2025,159,Canola,52.4
+1983,161,Canola,15.0
+1984,161,Canola,14.0
+1988,161,Canola,13.5
+1993,161,Canola,25.0
+1994,161,Canola,15.6
+1995,161,Canola,19.9
+1996,161,Canola,25.4
+1997,161,Canola,22.5
+1998,161,Canola,19.1
+1999,161,Canola,28.7
+2000,161,Canola,27.9
+2001,161,Canola,14.3
+2003,161,Canola,5.8
+2006,161,Canola,28.0
+2007,161,Canola,19.4
+2008,161,Canola,30.5
+2009,161,Canola,34.9
+2010,161,Canola,38.2
+2011,161,Canola,34.6
+2012,161,Canola,31.9
+2013,161,Canola,47.2
+2014,161,Canola,42.36
+2015,161,Canola,31.69
+2016,161,Canola,46.6
+2017,161,Canola,33.76
+2018,161,Canola,37.4
+2019,161,Canola,45.7
+2020,161,Canola,40.1
+2021,161,Canola,25.3
+2022,161,Canola,44.9
+2023,161,Canola,36.3
+2024,161,Canola,44.4
+2025,161,Canola,52.0
+1981,244,Canola,26.0
+1982,244,Canola,21.0
+1983,244,Canola,18.7
+1984,244,Canola,22.8
+1985,244,Canola,26.2
+1986,244,Canola,25.9
+1987,244,Canola,28.9
+1988,244,Canola,20.2
+1989,244,Canola,17.1
+1990,244,Canola,22.0
+1991,244,Canola,25.9
+1992,244,Canola,21.5
+1993,244,Canola,24.9
+1994,244,Canola,20.0
+1995,244,Canola,17.9
+1996,244,Canola,23.8
+1997,244,Canola,24.6
+1998,244,Canola,23.6
+1999,244,Canola,27.2
+2000,244,Canola,29.0
+2001,244,Canola,21.9
+2002,244,Canola,29.8
+2003,244,Canola,20.6
+2004,244,Canola,25.8
+2005,244,Canola,30.5
+2006,244,Canola,41.5
+2007,244,Canola,24.9
+2008,244,Canola,33.5
+2009,244,Canola,41.9
+2010,244,Canola,24.3
+2011,244,Canola,31.0
+2012,244,Canola,25.7
+2013,244,Canola,39.7
+2014,244,Canola,31.5
+2015,244,Canola,38.5
+2016,244,Canola,41.3
+2017,244,Canola,41.96
+2018,244,Canola,42.0
+2019,244,Canola,50.0
+2020,244,Canola,39.5
+2021,244,Canola,28.8
+2022,244,Canola,47.6
+2023,244,Canola,43.9
+2024,244,Canola,38.8
+2025,244,Canola,50.3
+1981,290,Canola,19.0
+1982,290,Canola,25.0
+1983,290,Canola,20.6
+1984,290,Canola,16.4
+1985,290,Canola,15.6
+1986,290,Canola,18.7
+1987,290,Canola,16.0
+1988,290,Canola,15.0
+1989,290,Canola,9.0
+1993,290,Canola,20.7
+1994,290,Canola,17.5
+1995,290,Canola,17.4
+1996,290,Canola,25.0
+1997,290,Canola,22.8
+1998,290,Canola,23.9
+1999,290,Canola,29.8
+2000,290,Canola,19.0
+2001,290,Canola,8.7
+2003,290,Canola,16.4
+2004,290,Canola,28.9
+2005,290,Canola,32.3
+2006,290,Canola,22.1
+2007,290,Canola,16.6
+2008,290,Canola,34.1
+2009,290,Canola,24.4
+2010,290,Canola,34.9
+2011,290,Canola,34.1
+2012,290,Canola,23.2
+2013,290,Canola,41.4
+2014,290,Canola,42.78
+2015,290,Canola,33.86
+2016,290,Canola,37.5
+2017,290,Canola,31.04
+2018,290,Canola,38.0
+2019,290,Canola,31.8
+2020,290,Canola,42.1
+2021,290,Canola,13.5
+2022,290,Canola,31.5
+2023,290,Canola,26.8
+2024,290,Canola,36.6
+2025,290,Canola,47.7
+1981,344,Canola,19.0
+1982,344,Canola,24.0
+1983,344,Canola,18.7
+1984,344,Canola,13.8
+1985,344,Canola,22.0
+1986,344,Canola,26.5
+1987,344,Canola,24.7
+1988,344,Canola,14.1
+1989,344,Canola,15.5
+1990,344,Canola,18.3
+1991,344,Canola,20.3
+1992,344,Canola,18.9
+1993,344,Canola,28.4
+1994,344,Canola,23.4
+1995,344,Canola,25.2
+1996,344,Canola,24.7
+1997,344,Canola,19.7
+1998,344,Canola,19.6
+1999,344,Canola,29.4
+2000,344,Canola,24.9
+2001,344,Canola,16.0
+2002,344,Canola,9.5
+2003,344,Canola,16.7
+2004,344,Canola,25.4
+2005,344,Canola,33.8
+2006,344,Canola,28.1
+2007,344,Canola,23.6
+2008,344,Canola,32.9
+2009,344,Canola,34.5
+2010,344,Canola,26.8
+2011,344,Canola,33.3
+2012,344,Canola,20.3
+2013,344,Canola,36.8
+2014,344,Canola,33.15
+2015,344,Canola,32.63
+2016,344,Canola,38.5
+2017,344,Canola,41.63
+2018,344,Canola,37.9
+2019,344,Canola,38.0
+2020,344,Canola,33.2
+2021,344,Canola,10.7
+2022,344,Canola,20.4
+2023,344,Canola,28.4
+2024,344,Canola,41.7
+2025,344,Canola,46.2
+1981,437,Canola,25.0
+1982,437,Canola,31.0
+1983,437,Canola,21.6
+1984,437,Canola,19.1
+1985,437,Canola,24.9
+1986,437,Canola,27.6
+1987,437,Canola,25.3
+1988,437,Canola,20.8
+1989,437,Canola,22.0
+1990,437,Canola,24.3
+1991,437,Canola,20.8
+1992,437,Canola,22.5
+1993,437,Canola,23.3
+1994,437,Canola,22.1
+1995,437,Canola,22.4
+1996,437,Canola,28.0
+1997,437,Canola,20.9
+1998,437,Canola,26.5
+1999,437,Canola,28.2
+2000,437,Canola,24.7
+2001,437,Canola,20.8
+2002,437,Canola,9.0
+2003,437,Canola,13.9
+2004,437,Canola,22.2
+2005,437,Canola,29.0
+2006,437,Canola,30.5
+2007,437,Canola,28.9
+2008,437,Canola,29.0
+2009,437,Canola,35.5
+2010,437,Canola,40.5
+2011,437,Canola,37.6
+2012,437,Canola,27.8
+2013,437,Canola,43.7
+2014,437,Canola,39.21
+2015,437,Canola,42.02
+2016,437,Canola,43.7
+2017,437,Canola,41.25
+2018,437,Canola,42.3
+2019,437,Canola,45.0
+2020,437,Canola,47.1
+2021,437,Canola,17.6
+2022,437,Canola,40.7
+2023,437,Canola,32.3
+2024,437,Canola,34.7
+2025,437,Canola,51.5
+1981,461,Canola,23.0
+1982,461,Canola,22.0
+1983,461,Canola,21.8
+1984,461,Canola,18.9
+1985,461,Canola,26.0
+1986,461,Canola,25.6
+1987,461,Canola,21.0
+1988,461,Canola,22.2
+1989,461,Canola,20.7
+1990,461,Canola,20.3
+1991,461,Canola,19.9
+1992,461,Canola,23.1
+1993,461,Canola,18.4
+1994,461,Canola,18.8
+1995,461,Canola,20.2
+1996,461,Canola,26.3
+1997,461,Canola,19.3
+1998,461,Canola,26.5
+1999,461,Canola,31.8
+2000,461,Canola,26.1
+2001,461,Canola,22.3
+2002,461,Canola,10.4
+2003,461,Canola,19.6
+2004,461,Canola,20.9
+2005,461,Canola,30.1
+2006,461,Canola,23.7
+2007,461,Canola,29.1
+2008,461,Canola,31.4
+2009,461,Canola,36.4
+2010,461,Canola,30.2
+2011,461,Canola,35.7
+2012,461,Canola,25.8
+2013,461,Canola,37.1
+2014,461,Canola,29.88
+2015,461,Canola,37.2
+2016,461,Canola,40.3
+2017,461,Canola,38.24
+2018,461,Canola,38.2
+2019,461,Canola,45.2
+2020,461,Canola,41.1
+2021,461,Canola,23.2
+2022,461,Canola,46.5
+2023,461,Canola,49.9
+2024,461,Canola,40.6
+2025,461,Canola,46.3
+1981,5,Spring Wheat,24.0
+1982,5,Spring Wheat,23.0
+1983,5,Spring Wheat,17.5
+1984,5,Spring Wheat,13.8
+1985,5,Spring Wheat,12.6
+1986,5,Spring Wheat,33.9
+1987,5,Spring Wheat,20.7
+1988,5,Spring Wheat,8.1
+1989,5,Spring Wheat,12.5
+1990,5,Spring Wheat,29.5
+1991,5,Spring Wheat,26.1
+1992,5,Spring Wheat,35.1
+1993,5,Spring Wheat,31.4
+1994,5,Spring Wheat,25.8
+1995,5,Spring Wheat,24.3
+1996,5,Spring Wheat,25.0
+1997,5,Spring Wheat,20.6
+1998,5,Spring Wheat,22.9
+1999,5,Spring Wheat,18.7
+2000,5,Spring Wheat,24.8
+2001,5,Spring Wheat,21.4
+2002,5,Spring Wheat,22.2
+2003,5,Spring Wheat,18.5
+2004,5,Spring Wheat,32.3
+2005,5,Spring Wheat,28.9
+2006,5,Spring Wheat,27.1
+2007,5,Spring Wheat,26.6
+2008,5,Spring Wheat,28.5
+2009,5,Spring Wheat,32.0
+2010,5,Spring Wheat,27.1
+2011,5,Spring Wheat,21.7
+2012,5,Spring Wheat,29.0
+2013,5,Spring Wheat,34.6
+2014,5,Spring Wheat,35.57
+2015,5,Spring Wheat,31.26
+2016,5,Spring Wheat,26.5
+2017,5,Spring Wheat,35.69
+2018,5,Spring Wheat,39.1
+2019,5,Spring Wheat,43.3
+2020,5,Spring Wheat,47.6
+2021,5,Spring Wheat,39.8
+2022,5,Spring Wheat,37.6
+2023,5,Spring Wheat,40.2
+2024,5,Spring Wheat,47.6
+2025,5,Spring Wheat,57.1
+1981,67,Spring Wheat,22.0
+1982,67,Spring Wheat,27.0
+1983,67,Spring Wheat,20.3
+1984,67,Spring Wheat,12.8
+1985,67,Spring Wheat,15.5
+1986,67,Spring Wheat,34.5
+1987,67,Spring Wheat,25.2
+1988,67,Spring Wheat,6.0
+1989,67,Spring Wheat,13.6
+1990,67,Spring Wheat,27.1
+1991,67,Spring Wheat,21.9
+1992,67,Spring Wheat,33.1
+1993,67,Spring Wheat,29.9
+1994,67,Spring Wheat,25.7
+1995,67,Spring Wheat,25.6
+1996,67,Spring Wheat,27.7
+1997,67,Spring Wheat,15.8
+1998,67,Spring Wheat,19.5
+1999,67,Spring Wheat,25.4
+2000,67,Spring Wheat,24.0
+2001,67,Spring Wheat,20.4
+2002,67,Spring Wheat,22.0
+2003,67,Spring Wheat,13.2
+2004,67,Spring Wheat,28.0
+2005,67,Spring Wheat,25.6
+2006,67,Spring Wheat,24.7
+2007,67,Spring Wheat,21.6
+2008,67,Spring Wheat,30.0
+2009,67,Spring Wheat,32.1
+2010,67,Spring Wheat,31.4
+2011,67,Spring Wheat,25.1
+2012,67,Spring Wheat,29.5
+2013,67,Spring Wheat,47.7
+2014,67,Spring Wheat,40.25
+2015,67,Spring Wheat,33.48
+2016,67,Spring Wheat,41.7
+2017,67,Spring Wheat,27.7
+2018,67,Spring Wheat,31.4
+2019,67,Spring Wheat,43.9
+2020,67,Spring Wheat,43.0
+2021,67,Spring Wheat,26.9
+2022,67,Spring Wheat,43.4
+2023,67,Spring Wheat,36.1
+2024,67,Spring Wheat,34.0
+2025,67,Spring Wheat,54.5
+1981,137,Spring Wheat,29.0
+1982,137,Spring Wheat,35.0
+1983,137,Spring Wheat,27.6
+1984,137,Spring Wheat,18.3
+1985,137,Spring Wheat,8.5
+1986,137,Spring Wheat,33.0
+1987,137,Spring Wheat,28.9
+1988,137,Spring Wheat,11.5
+1989,137,Spring Wheat,31.0
+1990,137,Spring Wheat,31.5
+1991,137,Spring Wheat,31.5
+1992,137,Spring Wheat,30.7
+1993,137,Spring Wheat,32.6
+1994,137,Spring Wheat,28.4
+1995,137,Spring Wheat,32.5
+1996,137,Spring Wheat,35.0
+1997,137,Spring Wheat,33.6
+1998,137,Spring Wheat,28.3
+1999,137,Spring Wheat,34.8
+2000,137,Spring Wheat,36.4
+2001,137,Spring Wheat,18.4
+2002,137,Spring Wheat,22.5
+2003,137,Spring Wheat,20.0
+2004,137,Spring Wheat,37.1
+2005,137,Spring Wheat,37.3
+2006,137,Spring Wheat,25.4
+2007,137,Spring Wheat,29.6
+2008,137,Spring Wheat,35.4
+2009,137,Spring Wheat,33.4
+2010,137,Spring Wheat,38.8
+2011,137,Spring Wheat,38.5
+2012,137,Spring Wheat,32.5
+2013,137,Spring Wheat,45.2
+2014,137,Spring Wheat,37.09
+2015,137,Spring Wheat,32.71
+2016,137,Spring Wheat,40.9
+2017,137,Spring Wheat,33.95
+2018,137,Spring Wheat,36.0
+2019,137,Spring Wheat,50.0
+2020,137,Spring Wheat,48.8
+2021,137,Spring Wheat,17.3
+2022,137,Spring Wheat,41.8
+2023,137,Spring Wheat,21.6
+2024,137,Spring Wheat,24.7
+2025,137,Spring Wheat,36.0
+1981,159,Spring Wheat,25.0
+1982,159,Spring Wheat,37.0
+1983,159,Spring Wheat,29.4
+1984,159,Spring Wheat,22.9
+1985,159,Spring Wheat,26.3
+1986,159,Spring Wheat,41.0
+1987,159,Spring Wheat,34.1
+1988,159,Spring Wheat,10.5
+1989,159,Spring Wheat,27.9
+1990,159,Spring Wheat,39.3
+1991,159,Spring Wheat,28.5
+1992,159,Spring Wheat,30.4
+1993,159,Spring Wheat,24.9
+1994,159,Spring Wheat,26.4
+1995,159,Spring Wheat,27.1
+1996,159,Spring Wheat,30.2
+1997,159,Spring Wheat,26.5
+1998,159,Spring Wheat,31.6
+1999,159,Spring Wheat,34.8
+2000,159,Spring Wheat,27.1
+2001,159,Spring Wheat,30.7
+2002,159,Spring Wheat,29.3
+2003,159,Spring Wheat,23.4
+2004,159,Spring Wheat,33.1
+2005,159,Spring Wheat,36.2
+2006,159,Spring Wheat,33.2
+2007,159,Spring Wheat,31.4
+2008,159,Spring Wheat,38.3
+2009,159,Spring Wheat,50.9
+2010,159,Spring Wheat,37.2
+2011,159,Spring Wheat,43.9
+2012,159,Spring Wheat,38.8
+2013,159,Spring Wheat,51.3
+2014,159,Spring Wheat,30.64
+2015,159,Spring Wheat,15.38
+2016,159,Spring Wheat,44.0
+2017,159,Spring Wheat,39.59
+2018,159,Spring Wheat,43.8
+2019,159,Spring Wheat,57.3
+2020,159,Spring Wheat,57.8
+2021,159,Spring Wheat,35.3
+2022,159,Spring Wheat,53.1
+2023,159,Spring Wheat,52.3
+2024,159,Spring Wheat,50.2
+2025,159,Spring Wheat,58.8
+1981,161,Spring Wheat,26.0
+1982,161,Spring Wheat,37.0
+1983,161,Spring Wheat,32.7
+1984,161,Spring Wheat,19.4
+1985,161,Spring Wheat,26.3
+1986,161,Spring Wheat,37.4
+1987,161,Spring Wheat,37.8
+1988,161,Spring Wheat,10.3
+1989,161,Spring Wheat,30.1
+1990,161,Spring Wheat,36.8
+1991,161,Spring Wheat,27.1
+1992,161,Spring Wheat,26.0
+1993,161,Spring Wheat,28.7
+1994,161,Spring Wheat,27.1
+1995,161,Spring Wheat,27.6
+1996,161,Spring Wheat,37.9
+1997,161,Spring Wheat,27.0
+1998,161,Spring Wheat,28.2
+1999,161,Spring Wheat,32.3
+2000,161,Spring Wheat,22.9
+2001,161,Spring Wheat,22.7
+2002,161,Spring Wheat,24.4
+2003,161,Spring Wheat,29.8
+2004,161,Spring Wheat,31.7
+2005,161,Spring Wheat,38.4
+2006,161,Spring Wheat,36.6
+2007,161,Spring Wheat,36.6
+2008,161,Spring Wheat,43.8
+2009,161,Spring Wheat,55.2
+2010,161,Spring Wheat,41.1
+2011,161,Spring Wheat,45.9
+2012,161,Spring Wheat,34.7
+2013,161,Spring Wheat,59.7
+2014,161,Spring Wheat,39.21
+2015,161,Spring Wheat,38.82
+2016,161,Spring Wheat,35.8
+2017,161,Spring Wheat,52.31
+2018,161,Spring Wheat,46.5
+2019,161,Spring Wheat,54.2
+2020,161,Spring Wheat,49.3
+2021,161,Spring Wheat,40.3
+2022,161,Spring Wheat,49.2
+2023,161,Spring Wheat,42.7
+2024,161,Spring Wheat,53.7
+2025,161,Spring Wheat,49.2
+1981,244,Spring Wheat,34.0
+1982,244,Spring Wheat,32.0
+1983,244,Spring Wheat,27.5
+1984,244,Spring Wheat,29.0
+1985,244,Spring Wheat,34.3
+1986,244,Spring Wheat,31.2
+1987,244,Spring Wheat,28.2
+1988,244,Spring Wheat,21.2
+1989,244,Spring Wheat,28.7
+1990,244,Spring Wheat,28.7
+1991,244,Spring Wheat,30.6
+1992,244,Spring Wheat,25.0
+1993,244,Spring Wheat,26.6
+1994,244,Spring Wheat,27.0
+1995,244,Spring Wheat,30.6
+1996,244,Spring Wheat,33.7
+1997,244,Spring Wheat,29.8
+1998,244,Spring Wheat,30.9
+1999,244,Spring Wheat,38.3
+2000,244,Spring Wheat,35.0
+2001,244,Spring Wheat,32.0
+2002,244,Spring Wheat,35.2
+2003,244,Spring Wheat,30.9
+2004,244,Spring Wheat,29.6
+2005,244,Spring Wheat,52.4
+2006,244,Spring Wheat,37.5
+2007,244,Spring Wheat,31.8
+2008,244,Spring Wheat,39.6
+2009,244,Spring Wheat,44.3
+2010,244,Spring Wheat,30.8
+2011,244,Spring Wheat,41.2
+2012,244,Spring Wheat,30.1
+2013,244,Spring Wheat,51.2
+2014,244,Spring Wheat,40.97
+2015,244,Spring Wheat,42.1
+2016,244,Spring Wheat,42.1
+2017,244,Spring Wheat,53.01
+2018,244,Spring Wheat,53.0
+2019,244,Spring Wheat,58.3
+2020,244,Spring Wheat,50.6
+2021,244,Spring Wheat,37.8
+2022,244,Spring Wheat,60.3
+2023,244,Spring Wheat,55.6
+2024,244,Spring Wheat,63.1
+2025,244,Spring Wheat,63.5
+1981,290,Spring Wheat,29.0
+1982,290,Spring Wheat,35.0
+1983,290,Spring Wheat,33.2
+1984,290,Spring Wheat,27.0
+1985,290,Spring Wheat,21.9
+1986,290,Spring Wheat,35.7
+1987,290,Spring Wheat,26.1
+1988,290,Spring Wheat,9.8
+1989,290,Spring Wheat,25.2
+1990,290,Spring Wheat,26.2
+1991,290,Spring Wheat,35.1
+1992,290,Spring Wheat,29.8
+1993,290,Spring Wheat,36.6
+1994,290,Spring Wheat,33.4
+1995,290,Spring Wheat,28.8
+1996,290,Spring Wheat,36.4
+1997,290,Spring Wheat,33.2
+1998,290,Spring Wheat,31.8
+1999,290,Spring Wheat,37.7
+2000,290,Spring Wheat,31.7
+2001,290,Spring Wheat,15.1
+2002,290,Spring Wheat,9.6
+2003,290,Spring Wheat,22.0
+2004,290,Spring Wheat,35.4
+2005,290,Spring Wheat,41.1
+2006,290,Spring Wheat,28.7
+2007,290,Spring Wheat,28.7
+2008,290,Spring Wheat,32.8
+2009,290,Spring Wheat,30.3
+2010,290,Spring Wheat,35.5
+2011,290,Spring Wheat,39.8
+2012,290,Spring Wheat,35.0
+2013,290,Spring Wheat,50.6
+2014,290,Spring Wheat,39.95
+2015,290,Spring Wheat,41.6
+2016,290,Spring Wheat,36.4
+2017,290,Spring Wheat,46.61
+2018,290,Spring Wheat,45.9
+2019,290,Spring Wheat,33.1
+2020,290,Spring Wheat,48.7
+2021,290,Spring Wheat,22.4
+2022,290,Spring Wheat,46.1
+2023,290,Spring Wheat,32.7
+2024,290,Spring Wheat,41.1
+2025,290,Spring Wheat,54.9
+1981,344,Spring Wheat,28.0
+1982,344,Spring Wheat,37.0
+1983,344,Spring Wheat,30.3
+1984,344,Spring Wheat,20.8
+1985,344,Spring Wheat,31.0
+1986,344,Spring Wheat,31.7
+1987,344,Spring Wheat,24.1
+1988,344,Spring Wheat,5.8
+1989,344,Spring Wheat,25.0
+1990,344,Spring Wheat,29.0
+1991,344,Spring Wheat,34.9
+1992,344,Spring Wheat,32.4
+1993,344,Spring Wheat,33.5
+1994,344,Spring Wheat,28.9
+1995,344,Spring Wheat,27.8
+1996,344,Spring Wheat,32.8
+1997,344,Spring Wheat,25.4
+1998,344,Spring Wheat,26.0
+1999,344,Spring Wheat,35.3
+2000,344,Spring Wheat,30.2
+2001,344,Spring Wheat,18.3
+2002,344,Spring Wheat,11.7
+2003,344,Spring Wheat,16.2
+2004,344,Spring Wheat,34.8
+2005,344,Spring Wheat,39.2
+2006,344,Spring Wheat,33.7
+2007,344,Spring Wheat,28.0
+2008,344,Spring Wheat,32.9
+2009,344,Spring Wheat,39.5
+2010,344,Spring Wheat,30.5
+2011,344,Spring Wheat,40.9
+2012,344,Spring Wheat,30.3
+2013,344,Spring Wheat,41.7
+2014,344,Spring Wheat,38.72
+2015,344,Spring Wheat,30.99
+2016,344,Spring Wheat,42.8
+2017,344,Spring Wheat,44.19
+2018,344,Spring Wheat,37.4
+2019,344,Spring Wheat,41.5
+2020,344,Spring Wheat,41.4
+2021,344,Spring Wheat,11.3
+2022,344,Spring Wheat,28.5
+2023,344,Spring Wheat,31.4
+2024,344,Spring Wheat,57.2
+2025,344,Spring Wheat,55.2
+1981,437,Spring Wheat,30.0
+1982,437,Spring Wheat,38.0
+1983,437,Spring Wheat,30.5
+1984,437,Spring Wheat,28.0
+1985,437,Spring Wheat,33.6
+1986,437,Spring Wheat,31.4
+1987,437,Spring Wheat,27.2
+1988,437,Spring Wheat,22.4
+1989,437,Spring Wheat,32.4
+1990,437,Spring Wheat,32.3
+1991,437,Spring Wheat,29.1
+1992,437,Spring Wheat,20.2
+1993,437,Spring Wheat,36.5
+1994,437,Spring Wheat,30.0
+1995,437,Spring Wheat,27.4
+1996,437,Spring Wheat,39.0
+1997,437,Spring Wheat,29.1
+1998,437,Spring Wheat,33.6
+1999,437,Spring Wheat,37.6
+2000,437,Spring Wheat,29.8
+2001,437,Spring Wheat,27.5
+2002,437,Spring Wheat,9.6
+2003,437,Spring Wheat,20.0
+2004,437,Spring Wheat,36.0
+2005,437,Spring Wheat,34.6
+2006,437,Spring Wheat,37.0
+2007,437,Spring Wheat,38.6
+2008,437,Spring Wheat,34.1
+2009,437,Spring Wheat,40.0
+2010,437,Spring Wheat,44.1
+2011,437,Spring Wheat,45.5
+2012,437,Spring Wheat,41.5
+2013,437,Spring Wheat,55.5
+2014,437,Spring Wheat,48.47
+2015,437,Spring Wheat,45.73
+2016,437,Spring Wheat,50.3
+2017,437,Spring Wheat,49.94
+2018,437,Spring Wheat,47.2
+2019,437,Spring Wheat,58.1
+2020,437,Spring Wheat,57.5
+2021,437,Spring Wheat,26.2
+2022,437,Spring Wheat,51.0
+2023,437,Spring Wheat,49.2
+2024,437,Spring Wheat,49.2
+2025,437,Spring Wheat,59.1
+1981,461,Spring Wheat,27.0
+1982,461,Spring Wheat,28.0
+1983,461,Spring Wheat,29.8
+1984,461,Spring Wheat,25.1
+1985,461,Spring Wheat,39.7
+1986,461,Spring Wheat,28.0
+1987,461,Spring Wheat,24.2
+1988,461,Spring Wheat,15.3
+1989,461,Spring Wheat,24.5
+1990,461,Spring Wheat,36.5
+1991,461,Spring Wheat,28.0
+1992,461,Spring Wheat,21.4
+1993,461,Spring Wheat,27.1
+1994,461,Spring Wheat,25.4
+1995,461,Spring Wheat,27.2
+1996,461,Spring Wheat,31.6
+1997,461,Spring Wheat,30.1
+1998,461,Spring Wheat,31.4
+1999,461,Spring Wheat,37.4
+2000,461,Spring Wheat,31.6
+2001,461,Spring Wheat,23.2
+2002,461,Spring Wheat,5.9
+2003,461,Spring Wheat,24.4
+2004,461,Spring Wheat,27.5
+2005,461,Spring Wheat,32.8
+2006,461,Spring Wheat,40.8
+2007,461,Spring Wheat,37.4
+2008,461,Spring Wheat,33.9
+2009,461,Spring Wheat,37.8
+2010,461,Spring Wheat,40.3
+2011,461,Spring Wheat,36.7
+2012,461,Spring Wheat,34.1
+2013,461,Spring Wheat,44.5
+2014,461,Spring Wheat,35.78
+2015,461,Spring Wheat,36.61
+2016,461,Spring Wheat,42.0
+2017,461,Spring Wheat,43.65
+2018,461,Spring Wheat,43.7
+2019,461,Spring Wheat,51.1
+2020,461,Spring Wheat,49.7
+2021,461,Spring Wheat,36.1
+2022,461,Spring Wheat,59.5
+2023,461,Spring Wheat,51.0
+2024,461,Spring Wheat,62.6
+2025,461,Spring Wheat,59.4
+1992,5,Mustard,1500.0
+1993,5,Mustard,1530.0
+1994,5,Mustard,893.0
+1995,5,Mustard,442.0
+1996,5,Mustard,715.0
+1997,5,Mustard,881.5
+1998,5,Mustard,849.3
+1999,5,Mustard,1062.8
+2000,5,Mustard,1007.9
+2001,5,Mustard,917.0
+2002,5,Mustard,586.0
+2003,5,Mustard,399.0
+2004,5,Mustard,525.0
+2005,5,Mustard,767.0
+2010,5,Mustard,924.0
+2012,5,Mustard,345.0
+2013,5,Mustard,936.0
+2014,5,Mustard,994.27
+2015,5,Mustard,367.51
+2016,5,Mustard,519.0
+2022,5,Mustard,782.6
+1992,67,Mustard,1100.0
+1993,67,Mustard,1068.0
+1994,67,Mustard,888.0
+1995,67,Mustard,635.0
+1996,67,Mustard,1002.0
+1997,67,Mustard,623.2
+1998,67,Mustard,624.1
+1999,67,Mustard,789.0
+2000,67,Mustard,1037.9
+2001,67,Mustard,698.0
+2002,67,Mustard,623.0
+2003,67,Mustard,406.0
+2004,67,Mustard,945.0
+2005,67,Mustard,878.0
+2006,67,Mustard,685.0
+2008,67,Mustard,984.0
+2009,67,Mustard,1100.0
+2010,67,Mustard,796.0
+2011,67,Mustard,500.0
+2012,67,Mustard,704.0
+2013,67,Mustard,1275.0
+2014,67,Mustard,832.3
+2015,67,Mustard,600.0
+2016,67,Mustard,1278.0
+2017,67,Mustard,459.25
+1992,137,Mustard,1000.0
+1993,137,Mustard,1224.0
+1994,137,Mustard,1276.0
+1995,137,Mustard,1032.0
+1996,137,Mustard,1199.0
+1997,137,Mustard,1193.3
+1998,137,Mustard,962.5
+1999,137,Mustard,1405.3
+2000,137,Mustard,984.0
+2001,137,Mustard,867.0
+2002,137,Mustard,551.0
+2003,137,Mustard,412.0
+2004,137,Mustard,1464.0
+2010,137,Mustard,1067.0
+2012,137,Mustard,548.0
+2014,137,Mustard,818.56
+2015,137,Mustard,1197.68
+2016,137,Mustard,998.0
+2017,137,Mustard,884.22
+2018,137,Mustard,619.0
+2022,137,Mustard,835.8
+2023,137,Mustard,555.6
+2024,137,Mustard,562.0
+2025,137,Mustard,1016.0
+1993,159,Mustard,1500.0
+1994,159,Mustard,729.0
+1995,159,Mustard,771.0
+1996,159,Mustard,772.0
+1997,159,Mustard,285.0
+2000,159,Mustard,430.5
+1992,161,Mustard,800.0
+1993,161,Mustard,1200.0
+1994,161,Mustard,1000.0
+1996,161,Mustard,1102.0
+1997,161,Mustard,953.9
+2000,161,Mustard,687.6
+2010,161,Mustard,695.0
+2020,161,Mustard,600.0
+2021,161,Mustard,750.0
+1993,244,Mustard,1100.0
+1994,244,Mustard,750.0
+1996,244,Mustard,815.0
+1997,244,Mustard,738.5
+1998,244,Mustard,780.0
+1999,244,Mustard,1125.0
+2001,244,Mustard,747.0
+2002,244,Mustard,962.0
+2016,244,Mustard,733.0
+1992,290,Mustard,900.0
+1993,290,Mustard,987.0
+1994,290,Mustard,888.0
+1995,290,Mustard,840.0
+1996,290,Mustard,997.0
+1997,290,Mustard,1002.9
+1998,290,Mustard,899.6
+1999,290,Mustard,1184.3
+2000,290,Mustard,939.7
+2001,290,Mustard,434.0
+2002,290,Mustard,439.0
+2003,290,Mustard,744.0
+2004,290,Mustard,924.0
+2005,290,Mustard,1138.0
+2006,290,Mustard,668.0
+2007,290,Mustard,836.0
+2008,290,Mustard,919.0
+2009,290,Mustard,598.0
+2010,290,Mustard,1015.0
+2011,290,Mustard,982.0
+2012,290,Mustard,717.0
+2013,290,Mustard,1168.0
+2014,290,Mustard,889.3
+2015,290,Mustard,694.87
+2016,290,Mustard,963.0
+2017,290,Mustard,919.4
+2019,290,Mustard,813.0
+2021,290,Mustard,511.0
+2022,290,Mustard,1026.2
+2023,290,Mustard,1200.2
+2024,290,Mustard,1236.0
+2025,290,Mustard,1566.0
+1992,344,Mustard,1250.0
+1993,344,Mustard,900.0
+1994,344,Mustard,500.0
+1995,344,Mustard,902.0
+1996,344,Mustard,969.0
+1997,344,Mustard,599.1
+1998,344,Mustard,669.4
+1999,344,Mustard,1128.4
+2000,344,Mustard,962.3
+2001,344,Mustard,543.0
+2002,344,Mustard,260.0
+2003,344,Mustard,606.0
+2004,344,Mustard,917.0
+2005,344,Mustard,1147.0
+2006,344,Mustard,1000.0
+2007,344,Mustard,400.0
+2008,344,Mustard,801.0
+2009,344,Mustard,675.0
+2010,344,Mustard,541.0
+2011,344,Mustard,508.0
+2012,344,Mustard,600.0
+2013,344,Mustard,1001.0
+2014,344,Mustard,600.0
+2015,344,Mustard,600.0
+2016,344,Mustard,760.0
+2017,344,Mustard,700.0
+2018,344,Mustard,900.0
+2021,344,Mustard,300.0
+2022,344,Mustard,650.0
+2023,344,Mustard,900.0
+2025,344,Mustard,1273.0
+1993,437,Mustard,1200.0
+1994,437,Mustard,1000.0
+1995,437,Mustard,750.0
+1996,437,Mustard,1350.0
+1997,437,Mustard,1000.0
+1998,437,Mustard,1200.0
+2001,437,Mustard,782.0
+2004,437,Mustard,888.0
+2005,437,Mustard,825.0
+2010,437,Mustard,861.0
+2011,437,Mustard,782.0
+2016,437,Mustard,1042.0
+1996,461,Mustard,750.0
+1981,5,Durum,22.0
+1982,5,Durum,22.0
+1983,5,Durum,16.4
+1984,5,Durum,12.2
+1985,5,Durum,11.1
+1986,5,Durum,33.0
+1987,5,Durum,19.6
+1988,5,Durum,9.3
+1989,5,Durum,10.3
+1990,5,Durum,31.6
+1991,5,Durum,21.5
+1992,5,Durum,36.0
+1993,5,Durum,31.2
+1994,5,Durum,24.4
+1995,5,Durum,24.2
+1996,5,Durum,26.0
+1997,5,Durum,20.8
+1998,5,Durum,24.2
+1999,5,Durum,25.8
+2000,5,Durum,29.6
+2001,5,Durum,21.8
+2002,5,Durum,18.4
+2003,5,Durum,19.0
+2004,5,Durum,28.7
+2005,5,Durum,32.4
+2006,5,Durum,33.5
+2007,5,Durum,36.8
+2008,5,Durum,26.8
+2009,5,Durum,33.8
+2010,5,Durum,31.0
+2011,5,Durum,20.9
+2012,5,Durum,27.3
+2013,5,Durum,44.5
+2014,5,Durum,34.55
+2015,5,Durum,36.55
+2016,5,Durum,45.0
+2017,5,Durum,29.55
+2018,5,Durum,49.0
+2019,5,Durum,44.5
+2020,5,Durum,50.8
+2021,5,Durum,40.3
+2022,5,Durum,52.6
+2023,5,Durum,33.5
+2024,5,Durum,40.7
+2025,5,Durum,53.9
+1981,67,Durum,19.0
+1982,67,Durum,25.0
+1983,67,Durum,20.1
+1984,67,Durum,11.6
+1985,67,Durum,14.0
+1986,67,Durum,33.9
+1987,67,Durum,23.8
+1988,67,Durum,6.6
+1989,67,Durum,12.3
+1990,67,Durum,30.8
+1991,67,Durum,27.9
+1992,67,Durum,33.2
+1993,67,Durum,35.6
+1994,67,Durum,27.7
+1995,67,Durum,24.8
+1996,67,Durum,26.6
+1997,67,Durum,19.2
+1998,67,Durum,22.7
+1999,67,Durum,28.5
+2000,67,Durum,29.3
+2001,67,Durum,24.0
+2002,67,Durum,21.0
+2003,67,Durum,15.6
+2004,67,Durum,27.7
+2005,67,Durum,29.7
+2006,67,Durum,25.9
+2007,67,Durum,37.1
+2008,67,Durum,32.7
+2009,67,Durum,34.2
+2010,67,Durum,32.2
+2011,67,Durum,29.4
+2012,67,Durum,31.9
+2013,67,Durum,52.1
+2014,67,Durum,37.06
+2015,67,Durum,32.72
+2016,67,Durum,45.4
+2017,67,Durum,30.33
+2018,67,Durum,39.7
+2019,67,Durum,50.1
+2020,67,Durum,47.7
+2021,67,Durum,30.9
+2022,67,Durum,53.4
+2023,67,Durum,34.5
+2024,67,Durum,39.0
+2025,67,Durum,57.8
+1981,137,Durum,28.0
+1982,137,Durum,33.0
+1983,137,Durum,27.7
+1984,137,Durum,16.6
+1985,137,Durum,7.9
+1986,137,Durum,30.5
+1987,137,Durum,28.9
+1988,137,Durum,12.5
+1989,137,Durum,30.1
+1990,137,Durum,30.6
+1991,137,Durum,37.2
+1992,137,Durum,34.0
+1993,137,Durum,35.1
+1994,137,Durum,28.7
+1995,137,Durum,34.6
+1996,137,Durum,33.9
+1997,137,Durum,32.6
+1998,137,Durum,28.3
+1999,137,Durum,32.7
+2000,137,Durum,37.8
+2001,137,Durum,17.7
+2002,137,Durum,22.8
+2003,137,Durum,21.1
+2004,137,Durum,43.4
+2005,137,Durum,39.8
+2006,137,Durum,31.0
+2007,137,Durum,24.0
+2008,137,Durum,32.5
+2009,137,Durum,31.7
+2010,137,Durum,38.9
+2011,137,Durum,48.5
+2012,137,Durum,38.5
+2013,137,Durum,52.8
+2014,137,Durum,37.59
+2015,137,Durum,34.08
+2016,137,Durum,56.5
+2017,137,Durum,36.35
+2018,137,Durum,36.4
+2019,137,Durum,52.7
+2020,137,Durum,48.0
+2021,137,Durum,12.8
+2022,137,Durum,36.2
+2023,137,Durum,20.2
+2024,137,Durum,25.5
+2025,137,Durum,34.7
+1981,159,Durum,23.0
+1982,159,Durum,37.0
+1983,159,Durum,32.5
+1984,159,Durum,22.1
+1985,159,Durum,26.7
+1986,159,Durum,41.1
+1987,159,Durum,35.3
+1988,159,Durum,11.0
+1989,159,Durum,28.2
+1990,159,Durum,41.0
+1991,159,Durum,29.4
+1992,159,Durum,29.7
+1993,159,Durum,31.7
+1994,159,Durum,29.3
+1995,159,Durum,30.4
+1996,159,Durum,36.0
+1997,159,Durum,34.3
+1998,159,Durum,32.4
+1999,159,Durum,40.1
+2000,159,Durum,30.6
+2001,159,Durum,33.0
+2002,159,Durum,21.0
+2003,159,Durum,27.2
+2004,159,Durum,25.9
+2005,159,Durum,46.5
+2006,159,Durum,36.1
+2007,159,Durum,39.9
+2008,159,Durum,43.5
+2009,159,Durum,50.2
+2010,159,Durum,38.0
+2011,159,Durum,39.7
+2012,159,Durum,51.5
+2013,159,Durum,61.5
+2014,159,Durum,44.13
+2015,159,Durum,35.08
+2016,159,Durum,55.7
+2017,159,Durum,46.84
+2018,159,Durum,47.7
+2019,159,Durum,57.5
+2020,159,Durum,63.5
+2021,159,Durum,33.3
+2022,159,Durum,57.0
+2023,159,Durum,55.7
+2024,159,Durum,53.9
+2025,159,Durum,63.3
+1981,161,Durum,26.0
+1982,161,Durum,38.0
+1983,161,Durum,32.7
+1984,161,Durum,20.1
+1985,161,Durum,26.1
+1986,161,Durum,39.2
+1987,161,Durum,37.3
+1988,161,Durum,11.2
+1989,161,Durum,30.5
+1990,161,Durum,41.9
+1991,161,Durum,33.3
+1992,161,Durum,27.6
+1993,161,Durum,37.4
+1994,161,Durum,36.6
+1995,161,Durum,34.8
+1996,161,Durum,42.5
+1997,161,Durum,33.7
+1998,161,Durum,34.7
+1999,161,Durum,35.6
+2000,161,Durum,33.6
+2001,161,Durum,22.3
+2002,161,Durum,31.7
+2003,161,Durum,32.9
+2004,161,Durum,30.2
+2005,161,Durum,38.4
+2006,161,Durum,40.3
+2007,161,Durum,36.3
+2008,161,Durum,43.8
+2009,161,Durum,44.6
+2010,161,Durum,41.3
+2011,161,Durum,47.1
+2012,161,Durum,46.0
+2013,161,Durum,63.5
+2014,161,Durum,45.16
+2015,161,Durum,30.23
+2016,161,Durum,49.5
+2017,161,Durum,45.35
+2018,161,Durum,39.2
+2019,161,Durum,48.9
+2020,161,Durum,54.5
+2021,161,Durum,38.7
+2022,161,Durum,55.5
+2023,161,Durum,40.3
+2024,161,Durum,57.8
+2025,161,Durum,55.8
+1981,244,Durum,32.0
+1982,244,Durum,27.0
+1983,244,Durum,23.7
+1984,244,Durum,24.6
+1985,244,Durum,30.7
+1986,244,Durum,28.1
+1987,244,Durum,27.3
+1988,244,Durum,21.5
+1989,244,Durum,27.7
+1990,244,Durum,26.0
+1991,244,Durum,27.5
+1992,244,Durum,32.0
+1993,244,Durum,30.0
+1994,244,Durum,27.6
+1995,244,Durum,32.5
+1996,244,Durum,28.6
+1981,290,Durum,27.0
+1982,290,Durum,35.0
+1983,290,Durum,32.4
+1984,290,Durum,25.1
+1985,290,Durum,20.6
+1986,290,Durum,35.1
+1987,290,Durum,25.4
+1988,290,Durum,10.2
+1989,290,Durum,23.7
+1990,290,Durum,23.3
+1991,290,Durum,38.0
+1992,290,Durum,29.4
+1993,290,Durum,40.5
+1994,290,Durum,34.3
+1995,290,Durum,30.8
+1996,290,Durum,40.9
+1997,290,Durum,34.2
+1998,290,Durum,36.0
+1999,290,Durum,40.2
+2000,290,Durum,31.9
+2001,290,Durum,14.2
+2002,290,Durum,7.5
+2003,290,Durum,26.8
+2004,290,Durum,33.5
+2005,290,Durum,43.1
+2006,290,Durum,32.3
+2007,290,Durum,34.3
+2008,290,Durum,40.5
+2009,290,Durum,33.6
+2010,290,Durum,35.6
+2011,290,Durum,43.9
+2012,290,Durum,35.9
+2013,290,Durum,52.2
+2014,290,Durum,42.54
+2015,290,Durum,44.95
+2016,290,Durum,44.4
+2017,290,Durum,42.14
+2018,290,Durum,45.5
+2019,290,Durum,31.0
+2020,290,Durum,50.0
+2021,290,Durum,18.2
+2022,290,Durum,42.6
+2023,290,Durum,28.5
+2024,290,Durum,39.6
+2025,290,Durum,57.7
+1981,344,Durum,24.0
+1982,344,Durum,35.0
+1983,344,Durum,27.4
+1984,344,Durum,18.8
+1985,344,Durum,30.2
+1986,344,Durum,27.6
+1987,344,Durum,20.5
+1988,344,Durum,5.6
+1989,344,Durum,22.2
+1990,344,Durum,29.0
+1991,344,Durum,30.0
+1992,344,Durum,25.0
+1993,344,Durum,35.0
+1994,344,Durum,26.5
+1995,344,Durum,14.9
+1996,344,Durum,27.4
+1997,344,Durum,21.9
+1998,344,Durum,26.1
+1999,344,Durum,33.9
+2000,344,Durum,30.5
+2001,344,Durum,15.0
+2002,344,Durum,8.1
+2003,344,Durum,15.4
+2004,344,Durum,27.8
+2005,344,Durum,35.0
+2006,344,Durum,30.0
+2007,344,Durum,26.5
+2008,344,Durum,32.5
+2009,344,Durum,37.5
+2010,344,Durum,33.3
+2011,344,Durum,41.5
+2012,344,Durum,26.1
+2013,344,Durum,37.5
+2014,344,Durum,40.41
+2015,344,Durum,26.55
+2016,344,Durum,43.4
+2017,344,Durum,40.93
+2018,344,Durum,30.0
+2019,344,Durum,36.8
+2020,344,Durum,46.4
+2021,344,Durum,8.5
+2022,344,Durum,26.2
+2023,344,Durum,20.8
+2025,344,Durum,66.0
+1981,437,Durum,30.0
+1982,437,Durum,35.0
+1983,437,Durum,27.5
+1984,437,Durum,20.0
+1985,437,Durum,25.0
+1986,437,Durum,30.0
+1987,437,Durum,25.0
+1988,437,Durum,23.3
+1989,437,Durum,35.0
+1990,437,Durum,30.0
+1991,437,Durum,30.0
+1992,437,Durum,27.5
+1982,461,Durum,28.0
+1983,461,Durum,30.0
+1984,461,Durum,22.0
+1985,461,Durum,35.0
+1986,461,Durum,30.0
+1987,461,Durum,23.0
+1988,461,Durum,15.0
+1989,461,Durum,23.0
+1990,461,Durum,34.0
+1991,461,Durum,30.0
+1992,461,Durum,20.0
+1996,5,Sunflowers,950.0
+1999,5,Sunflowers,1100.0
+2000,5,Sunflowers,1300.0
+2001,5,Sunflowers,1300.0
+2002,5,Sunflowers,1200.0
+2003,5,Sunflowers,1400.0
+2014,5,Sunflowers,0.0
+1993,67,Sunflowers,400.0
+1994,67,Sunflowers,540.0
+1995,67,Sunflowers,1200.0
+1996,67,Sunflowers,1500.0
+1999,67,Sunflowers,1316.1
+2010,67,Sunflowers,540.0
+2014,67,Sunflowers,0.0
+1992,137,Sunflowers,850.0
+1994,137,Sunflowers,1100.0
+1995,137,Sunflowers,900.0
+1996,137,Sunflowers,900.0
+1997,137,Sunflowers,950.0
+1998,137,Sunflowers,800.0
+2014,137,Sunflowers,0.0
+1993,159,Sunflowers,865.0
+1996,159,Sunflowers,940.0
+1997,159,Sunflowers,855.5
+1998,159,Sunflowers,1865.0
+2003,159,Sunflowers,856.0
+2014,159,Sunflowers,0.0
+1993,161,Sunflowers,1500.0
+1994,161,Sunflowers,995.0
+2014,161,Sunflowers,0.0
+2014,244,Sunflowers,0.0
+1993,290,Sunflowers,823.0
+1994,290,Sunflowers,872.0
+2014,290,Sunflowers,0.0
+1993,344,Sunflowers,749.0
+1994,344,Sunflowers,527.0
+1995,344,Sunflowers,700.0
+1999,344,Sunflowers,1240.0
+2000,344,Sunflowers,1390.1
+2001,344,Sunflowers,1300.0
+2002,344,Sunflowers,1000.0
+2003,344,Sunflowers,575.0
+2004,344,Sunflowers,1300.0
+2005,344,Sunflowers,1200.0
+2006,344,Sunflowers,1200.0
+2007,344,Sunflowers,1000.0
+2009,344,Sunflowers,1200.0
+2014,344,Sunflowers,0.0
+1992,437,Sunflowers,990.0
+1993,437,Sunflowers,1000.0
+2014,437,Sunflowers,0.0
+2014,461,Sunflowers,0.0
+1981,5,Oats,46.0
+1982,5,Oats,40.0
+1983,5,Oats,30.4
+1984,5,Oats,20.0
+1985,5,Oats,27.5
+1986,5,Oats,65.6
+1987,5,Oats,53.3
+1988,5,Oats,19.0
+1989,5,Oats,17.3
+1990,5,Oats,55.0
+1991,5,Oats,45.0
+1992,5,Oats,50.7
+1993,5,Oats,62.8
+1994,5,Oats,54.2
+1995,5,Oats,53.5
+1996,5,Oats,57.3
+1997,5,Oats,34.8
+1998,5,Oats,46.3
+1999,5,Oats,41.1
+2000,5,Oats,40.5
+2001,5,Oats,44.4
+2002,5,Oats,41.5
+2003,5,Oats,34.0
+2004,5,Oats,71.1
+2005,5,Oats,52.3
+2006,5,Oats,40.0
+2007,5,Oats,54.2
+2008,5,Oats,31.1
+2010,5,Oats,56.9
+2013,5,Oats,67.0
+2014,5,Oats,82.5
+2019,5,Oats,48.0
+1981,67,Oats,47.0
+1982,67,Oats,48.0
+1983,67,Oats,31.6
+1984,67,Oats,13.2
+1985,67,Oats,31.4
+1986,67,Oats,65.5
+1987,67,Oats,40.4
+1988,67,Oats,12.0
+1989,67,Oats,13.3
+1990,67,Oats,50.0
+1991,67,Oats,55.0
+1992,67,Oats,63.2
+1993,67,Oats,78.1
+1994,67,Oats,55.0
+1995,67,Oats,48.9
+1996,67,Oats,65.2
+1997,67,Oats,30.4
+1998,67,Oats,53.3
+1999,67,Oats,48.6
+2000,67,Oats,55.8
+2001,67,Oats,40.3
+2002,67,Oats,33.8
+2003,67,Oats,26.3
+2004,67,Oats,45.2
+2005,67,Oats,61.0
+2006,67,Oats,57.1
+2007,67,Oats,62.5
+2008,67,Oats,54.8
+2009,67,Oats,72.8
+2010,67,Oats,75.8
+2011,67,Oats,16.0
+2012,67,Oats,53.8
+2013,67,Oats,89.4
+2014,67,Oats,86.2
+2015,67,Oats,65.43
+2016,67,Oats,85.3
+2017,67,Oats,38.86
+2018,67,Oats,60.0
+2019,67,Oats,74.8
+2020,67,Oats,68.5
+2021,67,Oats,52.4
+2022,67,Oats,76.6
+2023,67,Oats,49.5
+2024,67,Oats,66.9
+2025,67,Oats,79.8
+1981,137,Oats,50.0
+1982,137,Oats,53.0
+1983,137,Oats,45.8
+1984,137,Oats,25.0
+1985,137,Oats,11.4
+1986,137,Oats,51.8
+1987,137,Oats,41.7
+1988,137,Oats,23.5
+1989,137,Oats,42.7
+1990,137,Oats,52.5
+1991,137,Oats,55.0
+1992,137,Oats,57.5
+1993,137,Oats,72.1
+1994,137,Oats,51.0
+1995,137,Oats,70.7
+1996,137,Oats,53.7
+1997,137,Oats,55.8
+1998,137,Oats,46.5
+1999,137,Oats,46.4
+2000,137,Oats,58.1
+2002,137,Oats,45.9
+2003,137,Oats,26.0
+2004,137,Oats,66.7
+2005,137,Oats,75.6
+2010,137,Oats,55.0
+2011,137,Oats,98.9
+2013,137,Oats,118.0
+2014,137,Oats,50.21
+2022,137,Oats,13.7
+1981,159,Oats,33.0
+1982,159,Oats,60.0
+1983,159,Oats,37.6
+1984,159,Oats,34.0
+1985,159,Oats,35.6
+1986,159,Oats,70.6
+1987,159,Oats,68.8
+1988,159,Oats,17.6
+1989,159,Oats,43.4
+1990,159,Oats,70.0
+1991,159,Oats,45.0
+1992,159,Oats,51.2
+1993,159,Oats,69.9
+1994,159,Oats,80.0
+1995,159,Oats,80.0
+1996,159,Oats,71.4
+1997,159,Oats,57.2
+1998,159,Oats,59.5
+1999,159,Oats,63.8
+2000,159,Oats,53.7
+2001,159,Oats,63.0
+2002,159,Oats,43.3
+2003,159,Oats,51.0
+2004,159,Oats,69.6
+2005,159,Oats,70.1
+2006,159,Oats,59.7
+2007,159,Oats,47.4
+2008,159,Oats,64.3
+2009,159,Oats,68.3
+2010,159,Oats,38.7
+2011,159,Oats,49.2
+2012,159,Oats,68.0
+2013,159,Oats,104.8
+2014,159,Oats,67.13
+2015,159,Oats,60.66
+2018,159,Oats,64.0
+2019,159,Oats,131.8
+2020,159,Oats,141.5
+2021,159,Oats,93.5
+1981,161,Oats,50.0
+1982,161,Oats,68.0
+1983,161,Oats,54.0
+1984,161,Oats,31.6
+1985,161,Oats,41.0
+1986,161,Oats,71.8
+1987,161,Oats,72.2
+1988,161,Oats,25.0
+1989,161,Oats,47.5
+1990,161,Oats,70.0
+1991,161,Oats,53.0
+1992,161,Oats,41.6
+1993,161,Oats,76.6
+1994,161,Oats,51.9
+1995,161,Oats,47.9
+1996,161,Oats,64.2
+1997,161,Oats,47.4
+1998,161,Oats,41.0
+1999,161,Oats,65.8
+2000,161,Oats,47.9
+2001,161,Oats,35.0
+2002,161,Oats,55.3
+2003,161,Oats,25.9
+2006,161,Oats,80.1
+2014,161,Oats,83.58
+2015,161,Oats,68.43
+2019,161,Oats,98.4
+2020,161,Oats,93.5
+2021,161,Oats,68.8
+2022,161,Oats,113.0
+1981,244,Oats,54.0
+1982,244,Oats,54.0
+1983,244,Oats,43.1
+1984,244,Oats,43.6
+1985,244,Oats,57.2
+1986,244,Oats,54.3
+1987,244,Oats,64.3
+1988,244,Oats,40.8
+1989,244,Oats,40.1
+1990,244,Oats,48.0
+1991,244,Oats,43.0
+1992,244,Oats,55.0
+1993,244,Oats,54.2
+1994,244,Oats,64.1
+1995,244,Oats,73.2
+1996,244,Oats,81.9
+1997,244,Oats,64.6
+1998,244,Oats,73.1
+1999,244,Oats,71.2
+2000,244,Oats,60.6
+2001,244,Oats,51.3
+2002,244,Oats,53.4
+2003,244,Oats,51.3
+2004,244,Oats,68.3
+2005,244,Oats,79.5
+2006,244,Oats,50.0
+2007,244,Oats,53.9
+2008,244,Oats,75.8
+2009,244,Oats,80.8
+2010,244,Oats,57.1
+2011,244,Oats,72.0
+2012,244,Oats,56.4
+2013,244,Oats,97.2
+2014,244,Oats,69.39
+2015,244,Oats,98.22
+2016,244,Oats,87.0
+2017,244,Oats,90.71
+2018,244,Oats,85.4
+2019,244,Oats,91.7
+2020,244,Oats,57.1
+2021,244,Oats,37.2
+2022,244,Oats,111.6
+2023,244,Oats,80.3
+2024,244,Oats,110.0
+2025,244,Oats,106.3
+1981,290,Oats,50.0
+1982,290,Oats,56.0
+1983,290,Oats,58.2
+1984,290,Oats,33.5
+1985,290,Oats,32.7
+1986,290,Oats,67.1
+1987,290,Oats,51.6
+1988,290,Oats,20.0
+1989,290,Oats,36.8
+1990,290,Oats,33.0
+1991,290,Oats,60.0
+1992,290,Oats,42.1
+1993,290,Oats,87.5
+1994,290,Oats,60.0
+1995,290,Oats,20.0
+1996,290,Oats,46.9
+1997,290,Oats,37.8
+1998,290,Oats,39.1
+1999,290,Oats,55.2
+2000,290,Oats,49.2
+2001,290,Oats,12.9
+2002,290,Oats,11.6
+2003,290,Oats,36.0
+2004,290,Oats,75.8
+2005,290,Oats,57.4
+2007,290,Oats,30.7
+2010,290,Oats,61.6
+2011,290,Oats,64.4
+2014,290,Oats,23.99
+2015,290,Oats,26.76
+2016,290,Oats,31.6
+2023,290,Oats,55.7
+2024,290,Oats,71.4
+2025,290,Oats,97.9
+1981,344,Oats,43.0
+1982,344,Oats,66.0
+1983,344,Oats,49.5
+1984,344,Oats,28.9
+1985,344,Oats,56.0
+1986,344,Oats,57.9
+1987,344,Oats,47.7
+1988,344,Oats,24.0
+1989,344,Oats,39.9
+1990,344,Oats,48.3
+1991,344,Oats,40.2
+1992,344,Oats,48.8
+1993,344,Oats,76.3
+1994,344,Oats,63.9
+1995,344,Oats,80.5
+1996,344,Oats,68.8
+1997,344,Oats,38.6
+1998,344,Oats,43.5
+1999,344,Oats,74.5
+2000,344,Oats,59.9
+2001,344,Oats,30.0
+2002,344,Oats,28.3
+2003,344,Oats,28.9
+2004,344,Oats,61.6
+2005,344,Oats,72.4
+2006,344,Oats,48.7
+2007,344,Oats,60.5
+2008,344,Oats,72.7
+2009,344,Oats,68.0
+2010,344,Oats,63.2
+2011,344,Oats,79.4
+2012,344,Oats,66.3
+2013,344,Oats,79.5
+2014,344,Oats,83.9
+2015,344,Oats,68.97
+2016,344,Oats,92.4
+2017,344,Oats,81.52
+2018,344,Oats,74.1
+2019,344,Oats,81.4
+2020,344,Oats,92.4
+2021,344,Oats,13.4
+2022,344,Oats,56.7
+2023,344,Oats,46.0
+2024,344,Oats,98.1
+2025,344,Oats,99.7
+1981,437,Oats,55.0
+1982,437,Oats,66.0
+1983,437,Oats,45.8
+1984,437,Oats,38.6
+1985,437,Oats,61.3
+1986,437,Oats,67.9
+1987,437,Oats,52.5
+1988,437,Oats,57.5
+1989,437,Oats,56.9
+1990,437,Oats,41.8
+1991,437,Oats,35.8
+1992,437,Oats,38.8
+1993,437,Oats,92.9
+1994,437,Oats,80.7
+1995,437,Oats,75.1
+1996,437,Oats,77.6
+1997,437,Oats,54.4
+1998,437,Oats,74.8
+1999,437,Oats,99.5
+2000,437,Oats,85.7
+2001,437,Oats,56.1
+2002,437,Oats,26.8
+2003,437,Oats,50.8
+2004,437,Oats,76.6
+2005,437,Oats,81.6
+2007,437,Oats,75.8
+2008,437,Oats,63.4
+2010,437,Oats,98.2
+2011,437,Oats,120.0
+2012,437,Oats,74.1
+2013,437,Oats,99.1
+2014,437,Oats,79.48
+2015,437,Oats,74.21
+2016,437,Oats,110.7
+2017,437,Oats,134.94
+2020,437,Oats,59.1
+2021,437,Oats,25.2
+2022,437,Oats,97.9
+2023,437,Oats,80.0
+2024,437,Oats,77.0
+2025,437,Oats,79.8
+1981,461,Oats,47.0
+1982,461,Oats,47.0
+1983,461,Oats,50.0
+1984,461,Oats,42.5
+1985,461,Oats,63.7
+1986,461,Oats,66.7
+1987,461,Oats,60.7
+1988,461,Oats,42.5
+1989,461,Oats,41.4
+1990,461,Oats,59.3
+1991,461,Oats,54.3
+1992,461,Oats,50.7
+1993,461,Oats,66.6
+1994,461,Oats,75.0
+1995,461,Oats,50.0
+1996,461,Oats,53.2
+1997,461,Oats,44.9
+1998,461,Oats,70.8
+1999,461,Oats,66.2
+2000,461,Oats,53.0
+2001,461,Oats,33.7
+2002,461,Oats,24.0
+2003,461,Oats,35.4
+2004,461,Oats,53.6
+2005,461,Oats,55.1
+2006,461,Oats,83.3
+2007,461,Oats,82.3
+2008,461,Oats,79.8
+2009,461,Oats,95.2
+2010,461,Oats,84.5
+2011,461,Oats,92.2
+2012,461,Oats,77.4
+2013,461,Oats,104.3
+2014,461,Oats,85.86
+2015,461,Oats,99.07
+2016,461,Oats,96.3
+2017,461,Oats,93.49
+2018,461,Oats,97.5
+2019,461,Oats,112.5
+2020,461,Oats,107.6
+2021,461,Oats,61.9
+2022,461,Oats,116.2
+2023,461,Oats,92.8
+2024,461,Oats,107.8
+2025,461,Oats,112.8
+1994,5,Lentils,1796.0
+1995,5,Lentils,1100.0
+1996,5,Lentils,1198.0
+1998,5,Lentils,1238.4
+1999,5,Lentils,1177.2
+2000,5,Lentils,899.1
+2001,5,Lentils,908.0
+2002,5,Lentils,724.0
+2003,5,Lentils,822.0
+2004,5,Lentils,1091.0
+2010,5,Lentils,928.0
+2011,5,Lentils,530.0
+2012,5,Lentils,1516.0
+2015,5,Lentils,1204.96
+2016,5,Lentils,1274.0
+2017,5,Lentils,1473.01
+2018,5,Lentils,1579.0
+2019,5,Lentils,1380.0
+2020,5,Lentils,1583.0
+2021,5,Lentils,1634.0
+2022,5,Lentils,1571.9
+2023,5,Lentils,1269.9
+2024,5,Lentils,1523.0
+2025,5,Lentils,1885.0
+1993,67,Lentils,700.0
+1994,67,Lentils,1047.0
+1995,67,Lentils,1141.0
+1996,67,Lentils,1066.0
+1997,67,Lentils,850.4
+1998,67,Lentils,1115.6
+1999,67,Lentils,1421.3
+2000,67,Lentils,1118.0
+2001,67,Lentils,912.0
+2002,67,Lentils,662.0
+2003,67,Lentils,547.0
+2004,67,Lentils,1309.0
+2005,67,Lentils,949.0
+2006,67,Lentils,1098.0
+2007,67,Lentils,1404.0
+2008,67,Lentils,1679.0
+2009,67,Lentils,1603.0
+2010,67,Lentils,1172.0
+2011,67,Lentils,575.0
+2012,67,Lentils,1113.0
+2013,67,Lentils,1743.0
+2014,67,Lentils,1448.0
+2015,67,Lentils,1548.18
+2016,67,Lentils,1732.0
+2017,67,Lentils,1059.43
+2018,67,Lentils,1519.0
+2019,67,Lentils,1216.0
+2020,67,Lentils,1354.0
+2021,67,Lentils,1180.0
+2022,67,Lentils,1296.7
+2023,67,Lentils,1361.8
+2024,67,Lentils,1193.0
+2025,67,Lentils,1916.0
+1992,137,Lentils,1200.0
+1993,137,Lentils,921.0
+1994,137,Lentils,1056.0
+1995,137,Lentils,905.0
+1996,137,Lentils,1234.0
+1997,137,Lentils,1291.1
+1998,137,Lentils,967.5
+1999,137,Lentils,1376.0
+2000,137,Lentils,1366.5
+2001,137,Lentils,574.0
+2002,137,Lentils,825.0
+2003,137,Lentils,968.0
+2004,137,Lentils,1870.0
+2005,137,Lentils,1253.0
+2006,137,Lentils,1272.0
+2007,137,Lentils,896.0
+2008,137,Lentils,1214.0
+2009,137,Lentils,1400.0
+2010,137,Lentils,1614.0
+2011,137,Lentils,1839.0
+2012,137,Lentils,1539.0
+2013,137,Lentils,2136.0
+2014,137,Lentils,1534.32
+2015,137,Lentils,1568.69
+2016,137,Lentils,1339.0
+2017,137,Lentils,1457.36
+2018,137,Lentils,1365.0
+2019,137,Lentils,1647.0
+2020,137,Lentils,1539.0
+2021,137,Lentils,866.0
+2022,137,Lentils,1256.5
+2023,137,Lentils,840.0
+2024,137,Lentils,934.0
+2025,137,Lentils,1635.0
+1992,159,Lentils,982.0
+1993,159,Lentils,1374.0
+1994,159,Lentils,1083.0
+1995,159,Lentils,1293.0
+1996,159,Lentils,1025.0
+1997,159,Lentils,890.0
+1998,159,Lentils,1347.4
+1999,159,Lentils,1844.0
+2000,159,Lentils,1173.2
+2001,159,Lentils,1300.0
+2002,159,Lentils,883.0
+2003,159,Lentils,822.0
+2004,159,Lentils,1217.0
+2005,159,Lentils,1615.0
+2006,159,Lentils,1240.0
+2007,159,Lentils,1464.0
+2008,159,Lentils,1545.0
+2009,159,Lentils,1772.0
+2010,159,Lentils,1230.0
+2011,159,Lentils,618.0
+2012,159,Lentils,1814.0
+2013,159,Lentils,2142.0
+2014,159,Lentils,792.84
+2015,159,Lentils,1305.66
+2016,159,Lentils,1517.0
+2017,159,Lentils,1446.75
+2018,159,Lentils,1761.0
+2019,159,Lentils,1872.0
+2020,159,Lentils,1971.0
+2021,159,Lentils,1534.0
+2022,159,Lentils,1888.6
+2023,159,Lentils,1996.0
+2024,159,Lentils,2042.0
+2025,159,Lentils,2638.0
+1992,161,Lentils,1249.0
+1993,161,Lentils,1269.0
+1994,161,Lentils,1180.0
+1995,161,Lentils,1561.0
+1996,161,Lentils,1438.0
+1997,161,Lentils,1375.9
+1998,161,Lentils,1676.7
+1999,161,Lentils,1638.1
+2000,161,Lentils,1377.7
+2001,161,Lentils,1108.0
+2002,161,Lentils,945.0
+2003,161,Lentils,952.0
+2004,161,Lentils,1295.0
+2005,161,Lentils,1479.0
+2006,161,Lentils,1323.0
+2007,161,Lentils,1479.0
+2008,161,Lentils,1492.0
+2009,161,Lentils,1766.0
+2010,161,Lentils,1630.0
+2011,161,Lentils,1468.0
+2012,161,Lentils,1555.0
+2013,161,Lentils,1736.0
+2014,161,Lentils,814.45
+2015,161,Lentils,1219.59
+2016,161,Lentils,930.0
+2017,161,Lentils,1340.26
+2018,161,Lentils,1295.0
+2019,161,Lentils,1570.0
+2020,161,Lentils,1846.0
+2021,161,Lentils,1405.0
+2022,161,Lentils,1755.9
+2023,161,Lentils,1480.3
+2024,161,Lentils,1484.0
+2025,161,Lentils,2437.0
+1992,244,Lentils,1122.0
+1993,244,Lentils,600.0
+1994,244,Lentils,500.0
+1995,244,Lentils,1200.0
+2024,244,Lentils,2203.0
+2025,244,Lentils,2645.0
+1992,290,Lentils,800.0
+1993,290,Lentils,889.0
+1994,290,Lentils,1121.0
+1995,290,Lentils,984.0
+1996,290,Lentils,1036.0
+1997,290,Lentils,1061.5
+1998,290,Lentils,1340.8
+1999,290,Lentils,1116.7
+2000,290,Lentils,838.1
+2001,290,Lentils,418.0
+2002,290,Lentils,277.0
+2003,290,Lentils,844.0
+2004,290,Lentils,1121.0
+2005,290,Lentils,1334.0
+2006,290,Lentils,1039.0
+2007,290,Lentils,1178.0
+2008,290,Lentils,1685.0
+2009,290,Lentils,1008.0
+2010,290,Lentils,1370.0
+2011,290,Lentils,1557.0
+2012,290,Lentils,1104.0
+2013,290,Lentils,1994.0
+2014,290,Lentils,1871.75
+2015,290,Lentils,1620.82
+2016,290,Lentils,596.0
+2017,290,Lentils,1565.54
+2018,290,Lentils,1551.0
+2019,290,Lentils,954.0
+2020,290,Lentils,1702.0
+2021,290,Lentils,726.0
+2022,290,Lentils,1377.8
+2023,290,Lentils,1402.1
+2024,290,Lentils,955.0
+2025,290,Lentils,1947.0
+1992,344,Lentils,800.0
+1993,344,Lentils,737.0
+1994,344,Lentils,722.0
+1995,344,Lentils,873.0
+1996,344,Lentils,912.0
+1997,344,Lentils,611.6
+1998,344,Lentils,878.3
+1999,344,Lentils,1083.3
+2000,344,Lentils,1209.0
+2001,344,Lentils,547.0
+2002,344,Lentils,400.0
+2003,344,Lentils,600.0
+2004,344,Lentils,900.0
+2005,344,Lentils,1400.0
+2006,344,Lentils,900.0
+2007,344,Lentils,917.0
+2008,344,Lentils,1078.0
+2009,344,Lentils,1376.0
+2010,344,Lentils,856.0
+2011,344,Lentils,890.0
+2012,344,Lentils,588.0
+2013,344,Lentils,1197.0
+2014,344,Lentils,1242.55
+2015,344,Lentils,1111.97
+2016,344,Lentils,1275.0
+2017,344,Lentils,1445.03
+2018,344,Lentils,1496.0
+2019,344,Lentils,1187.0
+2020,344,Lentils,1544.0
+2021,344,Lentils,629.0
+2022,344,Lentils,949.1
+2023,344,Lentils,1235.7
+2024,344,Lentils,1799.0
+2025,344,Lentils,2473.0
+1992,437,Lentils,1500.0
+1993,437,Lentils,692.0
+1994,437,Lentils,1154.0
+1995,437,Lentils,1181.0
+1996,437,Lentils,1001.0
+1997,437,Lentils,1221.3
+1998,437,Lentils,1003.8
+1999,437,Lentils,601.8
+2000,437,Lentils,1132.4
+2001,437,Lentils,946.0
+2002,437,Lentils,142.0
+2003,437,Lentils,806.0
+2005,437,Lentils,1083.0
+2010,437,Lentils,1657.0
+2011,437,Lentils,1234.0
+2015,437,Lentils,1238.36
+2016,437,Lentils,1732.0
+2017,437,Lentils,1904.03
+2019,437,Lentils,1775.0
+2020,437,Lentils,1874.0
+2021,437,Lentils,741.0
+2022,437,Lentils,1684.3
+2023,437,Lentils,1489.7
+2024,437,Lentils,1575.0
+2025,437,Lentils,1902.0
+2000,461,Lentils,1000.0
+2001,461,Lentils,600.0
+1994,5,Peas,25.0
+1995,5,Peas,20.0
+1996,5,Peas,20.1
+1997,5,Peas,27.2
+1998,5,Peas,32.5
+1999,5,Peas,30.7
+2000,5,Peas,30.3
+2001,5,Peas,29.8
+2002,5,Peas,23.9
+2003,5,Peas,17.1
+2006,5,Peas,30.2
+2007,5,Peas,46.3
+2008,5,Peas,25.8
+2010,5,Peas,25.7
+2011,5,Peas,19.2
+2012,5,Peas,35.0
+2013,5,Peas,33.7
+2014,5,Peas,35.4
+2015,5,Peas,32.5
+2016,5,Peas,32.5
+2017,5,Peas,30.1
+2018,5,Peas,34.0
+2019,5,Peas,37.0
+2020,5,Peas,41.9
+2021,5,Peas,35.2
+2022,5,Peas,38.5
+2023,5,Peas,32.7
+2024,5,Peas,33.6
+2025,5,Peas,46.9
+1993,67,Peas,13.3
+1994,67,Peas,22.2
+1995,67,Peas,28.3
+1996,67,Peas,38.6
+1997,67,Peas,27.0
+1998,67,Peas,33.9
+1999,67,Peas,23.2
+2000,67,Peas,34.4
+2001,67,Peas,24.7
+2002,67,Peas,17.3
+2003,67,Peas,15.8
+2004,67,Peas,33.2
+2005,67,Peas,27.9
+2006,67,Peas,19.2
+2007,67,Peas,35.8
+2008,67,Peas,32.0
+2009,67,Peas,32.6
+2010,67,Peas,25.1
+2012,67,Peas,31.0
+2013,67,Peas,23.3
+2014,67,Peas,39.7
+2015,67,Peas,33.3
+2016,67,Peas,32.9
+2017,67,Peas,22.1
+2018,67,Peas,38.0
+2019,67,Peas,39.9
+2020,67,Peas,51.7
+2021,67,Peas,30.3
+2022,67,Peas,44.3
+2023,67,Peas,35.4
+2024,67,Peas,34.5
+2025,67,Peas,47.8
+1994,137,Peas,13.3
+1995,137,Peas,16.7
+1996,137,Peas,28.3
+1997,137,Peas,28.9
+1998,137,Peas,30.9
+1999,137,Peas,36.0
+2000,137,Peas,44.2
+2001,137,Peas,11.4
+2002,137,Peas,27.4
+2003,137,Peas,24.3
+2004,137,Peas,49.5
+2005,137,Peas,36.2
+2006,137,Peas,25.5
+2007,137,Peas,24.1
+2008,137,Peas,27.5
+2009,137,Peas,26.8
+2010,137,Peas,29.0
+2011,137,Peas,37.5
+2012,137,Peas,32.3
+2013,137,Peas,47.3
+2014,137,Peas,37.3
+2015,137,Peas,26.5
+2016,137,Peas,51.0
+2017,137,Peas,28.0
+2018,137,Peas,25.3
+2019,137,Peas,44.4
+2020,137,Peas,45.6
+2021,137,Peas,14.0
+2022,137,Peas,31.5
+2023,137,Peas,18.1
+2024,137,Peas,27.2
+2025,137,Peas,25.1
+1992,159,Peas,30.0
+1993,159,Peas,33.7
+1994,159,Peas,21.9
+1995,159,Peas,28.1
+1996,159,Peas,28.8
+1997,159,Peas,31.1
+1998,159,Peas,33.7
+1999,159,Peas,40.6
+2000,159,Peas,35.2
+2001,159,Peas,27.3
+2002,159,Peas,23.3
+2003,159,Peas,24.6
+2004,159,Peas,40.0
+2005,159,Peas,34.1
+2006,159,Peas,32.7
+2007,159,Peas,29.9
+2008,159,Peas,37.1
+2009,159,Peas,40.3
+2010,159,Peas,28.5
+2011,159,Peas,18.4
+2012,159,Peas,35.6
+2013,159,Peas,44.8
+2014,159,Peas,25.1
+2015,159,Peas,22.1
+2016,159,Peas,48.5
+2017,159,Peas,28.2
+2018,159,Peas,35.4
+2019,159,Peas,42.5
+2020,159,Peas,44.2
+2021,159,Peas,26.0
+2022,159,Peas,49.4
+2023,159,Peas,32.1
+2024,159,Peas,41.4
+2025,159,Peas,59.8
+1992,161,Peas,40.0
+1993,161,Peas,42.3
+1994,161,Peas,25.0
+1995,161,Peas,24.2
+1996,161,Peas,43.6
+1997,161,Peas,36.4
+1998,161,Peas,33.2
+1999,161,Peas,44.7
+2000,161,Peas,37.1
+2001,161,Peas,22.4
+2002,161,Peas,23.5
+2003,161,Peas,27.5
+2004,161,Peas,34.5
+2005,161,Peas,36.2
+2006,161,Peas,36.8
+2007,161,Peas,36.3
+2008,161,Peas,31.8
+2009,161,Peas,35.2
+2010,161,Peas,30.3
+2011,161,Peas,32.5
+2012,161,Peas,35.8
+2013,161,Peas,34.5
+2014,161,Peas,18.2
+2015,161,Peas,20.5
+2016,161,Peas,24.8
+2017,161,Peas,29.9
+2018,161,Peas,24.0
+2019,161,Peas,39.3
+2020,161,Peas,44.5
+2021,161,Peas,27.3
+2022,161,Peas,29.6
+2023,161,Peas,33.5
+2024,161,Peas,41.4
+2025,161,Peas,53.6
+1994,244,Peas,22.9
+1995,244,Peas,33.3
+1996,244,Peas,31.3
+1997,244,Peas,30.5
+1998,244,Peas,29.7
+1999,244,Peas,41.3
+2000,244,Peas,33.1
+2001,244,Peas,25.6
+2002,244,Peas,29.7
+2003,244,Peas,16.7
+2004,244,Peas,28.5
+2009,244,Peas,35.4
+2010,244,Peas,17.3
+2011,244,Peas,36.0
+2012,244,Peas,30.0
+2013,244,Peas,42.7
+2014,244,Peas,27.4
+2015,244,Peas,38.6
+2016,244,Peas,41.3
+2017,244,Peas,45.0
+2018,244,Peas,43.0
+2019,244,Peas,47.8
+2020,244,Peas,35.6
+2021,244,Peas,31.5
+2022,244,Peas,54.7
+2023,244,Peas,41.3
+2024,244,Peas,50.0
+2025,244,Peas,49.9
+1992,290,Peas,34.5
+1993,290,Peas,36.3
+1994,290,Peas,26.1
+1995,290,Peas,18.0
+1996,290,Peas,42.4
+1997,290,Peas,29.5
+1998,290,Peas,34.6
+1999,290,Peas,47.8
+2000,290,Peas,22.4
+2001,290,Peas,11.1
+2002,290,Peas,8.0
+2003,290,Peas,17.0
+2004,290,Peas,35.6
+2005,290,Peas,35.3
+2006,290,Peas,26.9
+2007,290,Peas,34.0
+2008,290,Peas,46.5
+2009,290,Peas,26.1
+2010,290,Peas,35.9
+2011,290,Peas,37.6
+2012,290,Peas,32.9
+2013,290,Peas,43.4
+2014,290,Peas,39.3
+2015,290,Peas,30.3
+2016,290,Peas,37.8
+2017,290,Peas,29.2
+2018,290,Peas,29.2
+2019,290,Peas,29.6
+2020,290,Peas,36.7
+2021,290,Peas,18.2
+2022,290,Peas,29.7
+2023,290,Peas,27.3
+2024,290,Peas,28.0
+2025,290,Peas,46.7
+1992,344,Peas,11.7
+1993,344,Peas,27.1
+1994,344,Peas,30.2
+1995,344,Peas,20.2
+1996,344,Peas,36.3
+1997,344,Peas,24.9
+1998,344,Peas,29.0
+1999,344,Peas,46.6
+2000,344,Peas,36.0
+2001,344,Peas,15.3
+2002,344,Peas,8.9
+2003,344,Peas,17.1
+2004,344,Peas,41.1
+2005,344,Peas,45.5
+2006,344,Peas,36.3
+2007,344,Peas,30.4
+2008,344,Peas,43.7
+2009,344,Peas,35.1
+2010,344,Peas,28.5
+2011,344,Peas,31.5
+2012,344,Peas,18.6
+2013,344,Peas,41.3
+2014,344,Peas,33.4
+2015,344,Peas,30.4
+2016,344,Peas,49.0
+2017,344,Peas,44.2
+2018,344,Peas,37.7
+2019,344,Peas,40.4
+2020,344,Peas,46.2
+2021,344,Peas,4.9
+2022,344,Peas,20.7
+2023,344,Peas,27.1
+2024,344,Peas,43.7
+2025,344,Peas,52.8
+1992,437,Peas,13.5
+1993,437,Peas,33.0
+1994,437,Peas,26.4
+1995,437,Peas,17.1
+1996,437,Peas,30.7
+1997,437,Peas,29.6
+1998,437,Peas,31.5
+1999,437,Peas,42.3
+2000,437,Peas,27.8
+2001,437,Peas,21.1
+2002,437,Peas,6.1
+2003,437,Peas,11.9
+2004,437,Peas,35.8
+2005,437,Peas,37.3
+2006,437,Peas,34.1
+2007,437,Peas,36.0
+2008,437,Peas,33.5
+2009,437,Peas,41.6
+2010,437,Peas,44.5
+2011,437,Peas,36.7
+2012,437,Peas,24.7
+2013,437,Peas,47.8
+2014,437,Peas,36.2
+2015,437,Peas,35.3
+2016,437,Peas,46.1
+2017,437,Peas,45.5
+2018,437,Peas,49.6
+2019,437,Peas,37.3
+2020,437,Peas,39.3
+2021,437,Peas,24.2
+2022,437,Peas,39.9
+2023,437,Peas,37.0
+2024,437,Peas,34.5
+2025,437,Peas,39.9
+1992,461,Peas,20.2
+1993,461,Peas,25.5
+1994,461,Peas,24.9
+1995,461,Peas,17.4
+1996,461,Peas,37.7
+1997,461,Peas,28.1
+1998,461,Peas,30.6
+1999,461,Peas,36.2
+2000,461,Peas,26.7
+2001,461,Peas,21.3
+2002,461,Peas,9.0
+2003,461,Peas,15.0
+2004,461,Peas,24.5
+2005,461,Peas,40.0
+2006,461,Peas,41.9
+2007,461,Peas,34.7
+2008,461,Peas,43.9
+2009,461,Peas,43.6
+2010,461,Peas,34.9
+2011,461,Peas,35.2
+2012,461,Peas,29.7
+2013,461,Peas,37.8
+2014,461,Peas,26.6
+2015,461,Peas,31.4
+2016,461,Peas,50.1
+2017,461,Peas,43.5
+2018,461,Peas,38.0
+2019,461,Peas,37.2
+2020,461,Peas,39.8
+2021,461,Peas,38.0
+2022,461,Peas,57.4
+2023,461,Peas,53.3
+2024,461,Peas,52.9
+2025,461,Peas,52.6
+1981,5,Barley,34.0
+1982,5,Barley,32.0
+1983,5,Barley,25.4
+1984,5,Barley,20.7
+1985,5,Barley,19.0
+1986,5,Barley,53.5
+1987,5,Barley,37.1
+1988,5,Barley,18.4
+1989,5,Barley,13.7
+1990,5,Barley,35.0
+1991,5,Barley,40.0
+1992,5,Barley,37.6
+1993,5,Barley,49.7
+1994,5,Barley,55.0
+1995,5,Barley,30.0
+1996,5,Barley,52.5
+1997,5,Barley,41.6
+1998,5,Barley,43.9
+1999,5,Barley,36.5
+2000,5,Barley,43.7
+2001,5,Barley,32.6
+2002,5,Barley,31.6
+2003,5,Barley,30.1
+2004,5,Barley,52.6
+2005,5,Barley,50.7
+2006,5,Barley,50.0
+2007,5,Barley,52.2
+2008,5,Barley,44.1
+2010,5,Barley,60.6
+2012,5,Barley,44.0
+2013,5,Barley,47.4
+2014,5,Barley,72.35
+2015,5,Barley,49.0
+2016,5,Barley,76.8
+2018,5,Barley,72.0
+2019,5,Barley,58.2
+2020,5,Barley,83.4
+2021,5,Barley,64.4
+2022,5,Barley,84.6
+2023,5,Barley,50.0
+2024,5,Barley,52.1
+2025,5,Barley,73.2
+1981,67,Barley,36.0
+1982,67,Barley,35.0
+1983,67,Barley,25.5
+1984,67,Barley,11.9
+1985,67,Barley,20.4
+1986,67,Barley,53.8
+1987,67,Barley,37.8
+1988,67,Barley,13.9
+1989,67,Barley,15.2
+1990,67,Barley,37.0
+1991,67,Barley,27.4
+1992,67,Barley,56.2
+1993,67,Barley,55.9
+1994,67,Barley,43.3
+1995,67,Barley,46.7
+1996,67,Barley,46.2
+1997,67,Barley,27.4
+1998,67,Barley,33.5
+1999,67,Barley,32.5
+2000,67,Barley,41.3
+2001,67,Barley,33.5
+2002,67,Barley,31.1
+2003,67,Barley,18.0
+2004,67,Barley,40.9
+2005,67,Barley,45.5
+2006,67,Barley,35.3
+2007,67,Barley,48.0
+2008,67,Barley,43.3
+2009,67,Barley,66.4
+2010,67,Barley,51.0
+2011,67,Barley,30.7
+2012,67,Barley,39.8
+2013,67,Barley,69.2
+2014,67,Barley,56.75
+2015,67,Barley,56.42
+2016,67,Barley,78.3
+2017,67,Barley,51.96
+2018,67,Barley,67.0
+2019,67,Barley,69.4
+2020,67,Barley,65.7
+2021,67,Barley,40.1
+2022,67,Barley,60.4
+2023,67,Barley,54.1
+2024,67,Barley,49.2
+2025,67,Barley,69.1
+1981,137,Barley,40.0
+1982,137,Barley,49.0
+1983,137,Barley,39.3
+1984,137,Barley,23.9
+1985,137,Barley,10.1
+1986,137,Barley,50.8
+1987,137,Barley,40.0
+1988,137,Barley,18.0
+1989,137,Barley,32.6
+1990,137,Barley,39.9
+1991,137,Barley,37.0
+1992,137,Barley,51.1
+1993,137,Barley,53.8
+1994,137,Barley,40.3
+1995,137,Barley,49.2
+1996,137,Barley,42.6
+1997,137,Barley,48.9
+1998,137,Barley,38.6
+1999,137,Barley,44.8
+2000,137,Barley,52.2
+2001,137,Barley,33.0
+2002,137,Barley,37.0
+2003,137,Barley,29.7
+2004,137,Barley,56.7
+2005,137,Barley,54.4
+2006,137,Barley,48.1
+2007,137,Barley,35.6
+2008,137,Barley,70.7
+2009,137,Barley,58.2
+2010,137,Barley,50.7
+2011,137,Barley,77.1
+2012,137,Barley,58.5
+2013,137,Barley,74.2
+2014,137,Barley,63.12
+2015,137,Barley,56.6
+2016,137,Barley,69.8
+2017,137,Barley,57.21
+2018,137,Barley,42.8
+2019,137,Barley,77.4
+2020,137,Barley,70.8
+2021,137,Barley,15.9
+2022,137,Barley,58.7
+2023,137,Barley,31.6
+2024,137,Barley,35.5
+2025,137,Barley,59.7
+1981,159,Barley,35.0
+1982,159,Barley,58.0
+1983,159,Barley,38.7
+1984,159,Barley,30.6
+1985,159,Barley,36.4
+1986,159,Barley,59.4
+1987,159,Barley,45.6
+1988,159,Barley,22.3
+1989,159,Barley,43.2
+1990,159,Barley,57.5
+1991,159,Barley,30.0
+1992,159,Barley,48.9
+1993,159,Barley,52.3
+1994,159,Barley,50.0
+1995,159,Barley,53.2
+1996,159,Barley,64.8
+1997,159,Barley,46.7
+1998,159,Barley,51.0
+1999,159,Barley,56.5
+2000,159,Barley,40.2
+2001,159,Barley,46.2
+2002,159,Barley,44.1
+2003,159,Barley,39.2
+2004,159,Barley,63.0
+2005,159,Barley,53.6
+2006,159,Barley,59.5
+2007,159,Barley,53.6
+2008,159,Barley,43.2
+2009,159,Barley,49.6
+2010,159,Barley,46.9
+2011,159,Barley,40.4
+2012,159,Barley,43.5
+2013,159,Barley,61.0
+2014,159,Barley,32.84
+2015,159,Barley,45.75
+2016,159,Barley,61.1
+2017,159,Barley,60.03
+2018,159,Barley,55.7
+2019,159,Barley,77.4
+2020,159,Barley,77.2
+2021,159,Barley,49.4
+2022,159,Barley,71.6
+2023,159,Barley,69.7
+2024,159,Barley,78.9
+2025,159,Barley,87.5
+1981,161,Barley,39.0
+1982,161,Barley,58.0
+1983,161,Barley,41.8
+1984,161,Barley,28.4
+1985,161,Barley,37.9
+1986,161,Barley,61.0
+1987,161,Barley,61.8
+1988,161,Barley,24.2
+1989,161,Barley,49.1
+1990,161,Barley,70.5
+1991,161,Barley,27.3
+1992,161,Barley,40.5
+1993,161,Barley,59.0
+1994,161,Barley,40.0
+1995,161,Barley,33.8
+1996,161,Barley,58.4
+1997,161,Barley,52.5
+1998,161,Barley,58.6
+1999,161,Barley,48.1
+2000,161,Barley,49.2
+2001,161,Barley,41.3
+2002,161,Barley,43.9
+2003,161,Barley,54.6
+2004,161,Barley,67.9
+2005,161,Barley,75.0
+2006,161,Barley,64.4
+2007,161,Barley,48.2
+2008,161,Barley,66.4
+2009,161,Barley,102.7
+2010,161,Barley,51.2
+2011,161,Barley,64.2
+2012,161,Barley,56.3
+2013,161,Barley,69.5
+2014,161,Barley,47.61
+2015,161,Barley,63.64
+2016,161,Barley,60.6
+2017,161,Barley,54.92
+2018,161,Barley,49.3
+2019,161,Barley,60.9
+2020,161,Barley,73.4
+2021,161,Barley,47.3
+2022,161,Barley,64.8
+2023,161,Barley,53.6
+2024,161,Barley,68.0
+2025,161,Barley,82.8
+1981,244,Barley,45.0
+1982,244,Barley,44.0
+1983,244,Barley,34.0
+1984,244,Barley,38.4
+1985,244,Barley,49.3
+1986,244,Barley,50.5
+1987,244,Barley,51.2
+1988,244,Barley,35.5
+1989,244,Barley,42.8
+1990,244,Barley,44.1
+1991,244,Barley,46.3
+1992,244,Barley,51.5
+1993,244,Barley,55.0
+1994,244,Barley,54.1
+1995,244,Barley,53.3
+1996,244,Barley,64.4
+1997,244,Barley,58.8
+1998,244,Barley,56.1
+1999,244,Barley,63.0
+2000,244,Barley,56.1
+2001,244,Barley,50.6
+2002,244,Barley,48.1
+2003,244,Barley,49.5
+2004,244,Barley,62.1
+2005,244,Barley,71.4
+2006,244,Barley,51.8
+2007,244,Barley,45.6
+2008,244,Barley,57.7
+2009,244,Barley,68.7
+2010,244,Barley,48.0
+2011,244,Barley,53.4
+2012,244,Barley,30.7
+2013,244,Barley,67.2
+2014,244,Barley,42.09
+2015,244,Barley,59.4
+2016,244,Barley,60.9
+2017,244,Barley,66.71
+2018,244,Barley,79.0
+2019,244,Barley,79.3
+2020,244,Barley,67.9
+2021,244,Barley,41.5
+2022,244,Barley,78.8
+2023,244,Barley,66.5
+2024,244,Barley,82.2
+2025,244,Barley,80.5
+1981,290,Barley,46.0
+1982,290,Barley,55.0
+1983,290,Barley,54.5
+1984,290,Barley,38.7
+1985,290,Barley,35.0
+1986,290,Barley,57.3
+1987,290,Barley,46.7
+1988,290,Barley,22.3
+1989,290,Barley,38.2
+1990,290,Barley,46.2
+1991,290,Barley,57.9
+1992,290,Barley,58.9
+1993,290,Barley,55.6
+1994,290,Barley,52.8
+1995,290,Barley,49.7
+1996,290,Barley,59.7
+1997,290,Barley,55.5
+1998,290,Barley,51.9
+1999,290,Barley,57.2
+2000,290,Barley,49.1
+2001,290,Barley,24.5
+2002,290,Barley,21.1
+2003,290,Barley,40.9
+2004,290,Barley,52.8
+2005,290,Barley,61.1
+2006,290,Barley,41.3
+2007,290,Barley,43.8
+2008,290,Barley,56.4
+2009,290,Barley,45.2
+2010,290,Barley,51.4
+2011,290,Barley,62.3
+2012,290,Barley,44.0
+2013,290,Barley,71.3
+2014,290,Barley,55.43
+2015,290,Barley,63.67
+2016,290,Barley,60.1
+2017,290,Barley,62.79
+2018,290,Barley,62.8
+2019,290,Barley,48.5
+2020,290,Barley,68.9
+2021,290,Barley,22.7
+2022,290,Barley,62.5
+2023,290,Barley,36.5
+2024,290,Barley,64.5
+2025,290,Barley,99.8
+1981,344,Barley,35.0
+1982,344,Barley,54.0
+1983,344,Barley,43.4
+1984,344,Barley,24.9
+1985,344,Barley,47.2
+1986,344,Barley,50.0
+1987,344,Barley,39.4
+1988,344,Barley,17.4
+1989,344,Barley,31.8
+1990,344,Barley,38.5
+1991,344,Barley,45.9
+1992,344,Barley,44.1
+1993,344,Barley,60.5
+1994,344,Barley,49.2
+1995,344,Barley,53.6
+1996,344,Barley,52.7
+1997,344,Barley,41.2
+1998,344,Barley,38.4
+1999,344,Barley,63.2
+2000,344,Barley,50.1
+2001,344,Barley,25.9
+2002,344,Barley,18.2
+2003,344,Barley,23.9
+2004,344,Barley,53.2
+2005,344,Barley,54.1
+2006,344,Barley,33.3
+2007,344,Barley,41.8
+2008,344,Barley,53.7
+2009,344,Barley,50.0
+2010,344,Barley,40.5
+2011,344,Barley,47.5
+2012,344,Barley,42.0
+2013,344,Barley,59.6
+2014,344,Barley,56.14
+2015,344,Barley,48.61
+2016,344,Barley,72.2
+2017,344,Barley,57.74
+2018,344,Barley,50.6
+2019,344,Barley,61.5
+2020,344,Barley,65.1
+2021,344,Barley,10.4
+2022,344,Barley,43.2
+2023,344,Barley,40.9
+2024,344,Barley,79.1
+2025,344,Barley,78.7
+1981,437,Barley,48.0
+1982,437,Barley,53.0
+1983,437,Barley,39.6
+1984,437,Barley,39.3
+1985,437,Barley,53.1
+1986,437,Barley,50.4
+1987,437,Barley,45.3
+1988,437,Barley,43.6
+1989,437,Barley,47.2
+1990,437,Barley,50.8
+1991,437,Barley,40.5
+1992,437,Barley,36.2
+1993,437,Barley,52.8
+1994,437,Barley,44.9
+1995,437,Barley,35.9
+1996,437,Barley,58.6
+1997,437,Barley,42.7
+1998,437,Barley,48.5
+1999,437,Barley,64.6
+2000,437,Barley,49.0
+2001,437,Barley,43.8
+2002,437,Barley,16.7
+2003,437,Barley,31.3
+2004,437,Barley,70.9
+2005,437,Barley,65.0
+2006,437,Barley,49.6
+2007,437,Barley,49.0
+2008,437,Barley,69.8
+2009,437,Barley,56.4
+2010,437,Barley,65.8
+2011,437,Barley,60.3
+2012,437,Barley,54.8
+2013,437,Barley,67.1
+2014,437,Barley,56.19
+2015,437,Barley,57.47
+2016,437,Barley,67.4
+2017,437,Barley,70.74
+2018,437,Barley,66.0
+2019,437,Barley,69.7
+2020,437,Barley,79.6
+2021,437,Barley,32.2
+2022,437,Barley,67.6
+2023,437,Barley,78.0
+2024,437,Barley,74.8
+2025,437,Barley,79.4
+1981,461,Barley,39.0
+1982,461,Barley,44.0
+1983,461,Barley,47.5
+1984,461,Barley,38.8
+1985,461,Barley,64.3
+1986,461,Barley,49.4
+1987,461,Barley,41.4
+1988,461,Barley,31.8
+1989,461,Barley,36.9
+1990,461,Barley,57.5
+1991,461,Barley,46.3
+1992,461,Barley,38.9
+1993,461,Barley,52.8
+1994,461,Barley,59.4
+1995,461,Barley,38.7
+1996,461,Barley,50.1
+1997,461,Barley,35.6
+1998,461,Barley,57.8
+1999,461,Barley,66.3
+2000,461,Barley,49.5
+2001,461,Barley,34.9
+2002,461,Barley,11.7
+2003,461,Barley,30.5
+2004,461,Barley,48.4
+2005,461,Barley,54.5
+2006,461,Barley,52.1
+2007,461,Barley,48.0
+2008,461,Barley,64.9
+2009,461,Barley,70.5
+2010,461,Barley,58.1
+2011,461,Barley,59.4
+2012,461,Barley,49.0
+2013,461,Barley,67.2
+2014,461,Barley,51.63
+2015,461,Barley,59.85
+2016,461,Barley,71.7
+2017,461,Barley,62.3
+2018,461,Barley,71.0
+2019,461,Barley,78.5
+2020,461,Barley,70.4
+2021,461,Barley,45.2
+2022,461,Barley,82.0
+2023,461,Barley,75.5
+2024,461,Barley,76.9
+2025,461,Barley,82.5
+1981,5,Fall Rye,25.0
+1982,5,Fall Rye,23.0
+1983,5,Fall Rye,20.6
+1984,5,Fall Rye,14.8
+1985,5,Fall Rye,10.3
+1986,5,Fall Rye,27.1
+1987,5,Fall Rye,23.0
+1988,5,Fall Rye,8.0
+1989,5,Fall Rye,21.0
+1990,5,Fall Rye,31.0
+1991,5,Fall Rye,21.9
+1992,5,Fall Rye,24.6
+1993,5,Fall Rye,20.0
+1994,5,Fall Rye,23.0
+1995,5,Fall Rye,20.0
+1997,5,Fall Rye,15.0
+1998,5,Fall Rye,14.9
+1999,5,Fall Rye,20.6
+2000,5,Fall Rye,25.6
+2001,5,Fall Rye,18.5
+2002,5,Fall Rye,22.5
+2003,5,Fall Rye,24.8
+1982,67,Fall Rye,32.0
+1983,67,Fall Rye,21.0
+1984,67,Fall Rye,15.0
+1985,67,Fall Rye,5.0
+1986,67,Fall Rye,32.5
+1987,67,Fall Rye,29.0
+1988,67,Fall Rye,10.0
+1989,67,Fall Rye,17.8
+1990,67,Fall Rye,24.0
+1991,67,Fall Rye,35.0
+1992,67,Fall Rye,30.0
+1993,67,Fall Rye,40.0
+1994,67,Fall Rye,26.0
+1996,67,Fall Rye,30.0
+1997,67,Fall Rye,22.0
+1998,67,Fall Rye,25.0
+1999,67,Fall Rye,53.5
+2000,67,Fall Rye,40.0
+2001,67,Fall Rye,37.0
+2002,67,Fall Rye,28.0
+2003,67,Fall Rye,25.0
+2005,67,Fall Rye,40.0
+2006,67,Fall Rye,35.0
+2010,67,Fall Rye,40.0
+2012,67,Fall Rye,50.0
+2014,67,Fall Rye,31.48
+2015,67,Fall Rye,50.0
+2016,67,Fall Rye,51.0
+2019,67,Fall Rye,55.0
+2020,67,Fall Rye,45.0
+1981,137,Fall Rye,27.0
+1982,137,Fall Rye,35.0
+1983,137,Fall Rye,28.5
+1984,137,Fall Rye,23.1
+1985,137,Fall Rye,12.5
+1986,137,Fall Rye,24.5
+1987,137,Fall Rye,24.3
+1988,137,Fall Rye,11.5
+1989,137,Fall Rye,35.0
+1990,137,Fall Rye,30.0
+1991,137,Fall Rye,25.0
+1992,137,Fall Rye,21.5
+1993,137,Fall Rye,25.0
+1994,137,Fall Rye,30.0
+1995,137,Fall Rye,25.0
+1996,137,Fall Rye,17.5
+1997,137,Fall Rye,25.0
+1998,137,Fall Rye,20.1
+1999,137,Fall Rye,32.5
+2000,137,Fall Rye,25.9
+2003,137,Fall Rye,20.0
+2004,137,Fall Rye,39.9
+2025,137,Fall Rye,9.7
+1982,159,Fall Rye,48.0
+1983,159,Fall Rye,42.7
+1984,159,Fall Rye,25.0
+1985,159,Fall Rye,24.5
+1986,159,Fall Rye,35.0
+1987,159,Fall Rye,26.0
+1988,159,Fall Rye,14.0
+1989,159,Fall Rye,24.2
+1990,159,Fall Rye,35.0
+1992,159,Fall Rye,25.0
+2010,159,Fall Rye,9.0
+1982,161,Fall Rye,32.0
+1983,161,Fall Rye,20.0
+1984,161,Fall Rye,22.5
+1985,161,Fall Rye,30.0
+1986,161,Fall Rye,30.7
+1987,161,Fall Rye,24.0
+1988,161,Fall Rye,9.0
+1989,161,Fall Rye,40.0
+1990,161,Fall Rye,35.0
+1992,161,Fall Rye,24.0
+1993,161,Fall Rye,8.0
+1994,161,Fall Rye,26.0
+1996,161,Fall Rye,32.9
+1999,161,Fall Rye,35.0
+2000,161,Fall Rye,31.8
+2005,161,Fall Rye,20.0
+2006,161,Fall Rye,30.0
+2007,161,Fall Rye,67.2
+2008,161,Fall Rye,60.0
+2009,161,Fall Rye,25.0
+1981,244,Fall Rye,35.0
+1982,244,Fall Rye,28.0
+1983,244,Fall Rye,29.3
+1984,244,Fall Rye,25.9
+1985,244,Fall Rye,28.3
+1986,244,Fall Rye,27.3
+1987,244,Fall Rye,22.5
+1988,244,Fall Rye,18.0
+1989,244,Fall Rye,28.3
+1990,244,Fall Rye,25.0
+1991,244,Fall Rye,32.5
+1992,244,Fall Rye,25.5
+1994,244,Fall Rye,30.0
+1995,244,Fall Rye,30.0
+1996,244,Fall Rye,25.0
+1998,244,Fall Rye,37.0
+2011,244,Fall Rye,32.5
+1981,290,Fall Rye,26.0
+1982,290,Fall Rye,30.0
+1983,290,Fall Rye,27.1
+1984,290,Fall Rye,26.1
+1985,290,Fall Rye,21.7
+1986,290,Fall Rye,27.5
+1987,290,Fall Rye,15.0
+1988,290,Fall Rye,11.0
+1989,290,Fall Rye,20.2
+1990,290,Fall Rye,15.0
+1991,290,Fall Rye,20.0
+1992,290,Fall Rye,25.0
+1993,290,Fall Rye,40.1
+1994,290,Fall Rye,40.0
+1998,290,Fall Rye,18.8
+2005,290,Fall Rye,40.0
+1981,344,Fall Rye,23.0
+1982,344,Fall Rye,33.0
+1983,344,Fall Rye,30.2
+1984,344,Fall Rye,24.5
+1985,344,Fall Rye,20.6
+1986,344,Fall Rye,25.9
+1987,344,Fall Rye,23.5
+1988,344,Fall Rye,8.8
+1989,344,Fall Rye,25.2
+1990,344,Fall Rye,30.4
+1991,344,Fall Rye,37.0
+1992,344,Fall Rye,25.0
+1993,344,Fall Rye,40.0
+1994,344,Fall Rye,35.0
+1995,344,Fall Rye,22.5
+1996,344,Fall Rye,17.5
+1997,344,Fall Rye,20.0
+1998,344,Fall Rye,9.5
+1999,344,Fall Rye,33.7
+2000,344,Fall Rye,46.0
+2001,344,Fall Rye,17.5
+2002,344,Fall Rye,22.5
+2003,344,Fall Rye,35.3
+2004,344,Fall Rye,34.6
+2005,344,Fall Rye,38.7
+2006,344,Fall Rye,25.0
+2007,344,Fall Rye,36.0
+2008,344,Fall Rye,30.0
+2009,344,Fall Rye,20.0
+2010,344,Fall Rye,16.6
+2011,344,Fall Rye,25.0
+2012,344,Fall Rye,24.0
+2013,344,Fall Rye,19.1
+2014,344,Fall Rye,32.84
+2015,344,Fall Rye,21.26
+2016,344,Fall Rye,48.9
+2017,344,Fall Rye,20.0
+2018,344,Fall Rye,20.0
+2019,344,Fall Rye,24.6
+2020,344,Fall Rye,45.0
+2021,344,Fall Rye,15.0
+2022,344,Fall Rye,23.1
+2023,344,Fall Rye,34.4
+2024,344,Fall Rye,66.9
+1981,437,Fall Rye,30.0
+1982,437,Fall Rye,34.0
+1983,437,Fall Rye,26.0
+1984,437,Fall Rye,33.6
+1985,437,Fall Rye,32.5
+1986,437,Fall Rye,27.5
+1987,437,Fall Rye,20.0
+1988,437,Fall Rye,20.0
+1989,437,Fall Rye,32.0
+1990,437,Fall Rye,28.0
+1992,437,Fall Rye,27.5
+1993,437,Fall Rye,30.0
+1994,437,Fall Rye,25.0
+1996,437,Fall Rye,20.0
+1997,437,Fall Rye,25.0
+1998,437,Fall Rye,20.0
+2010,437,Fall Rye,18.4
+1981,461,Fall Rye,27.0
+1982,461,Fall Rye,34.0
+1983,461,Fall Rye,30.0
+1984,461,Fall Rye,28.7
+1985,461,Fall Rye,25.0
+1986,461,Fall Rye,25.0
+1987,461,Fall Rye,23.0
+1988,461,Fall Rye,15.0
+1989,461,Fall Rye,34.5
+1990,461,Fall Rye,25.0
+1991,461,Fall Rye,22.7
+1992,461,Fall Rye,15.0
+1993,461,Fall Rye,20.0
+1994,461,Fall Rye,20.0
+1995,461,Fall Rye,25.0
+1998,461,Fall Rye,39.6
+1999,461,Fall Rye,42.1
+2001,461,Fall Rye,25.0
+2009,461,Fall Rye,40.0
+2010,461,Fall Rye,40.0
+2011,461,Fall Rye,47.5
+2012,461,Fall Rye,35.0
+2014,461,Fall Rye,17.4
+1995,5,Canary Seed,350.0
+1996,5,Canary Seed,800.0
+1999,5,Canary Seed,1100.0
+2000,5,Canary Seed,900.0
+2001,5,Canary Seed,900.0
+2002,5,Canary Seed,569.0
+2003,5,Canary Seed,464.0
+2004,5,Canary Seed,551.0
+2014,5,Canary Seed,798.07
+1992,67,Canary Seed,1879.0
+1993,67,Canary Seed,841.0
+1994,67,Canary Seed,862.0
+1995,67,Canary Seed,838.0
+1996,67,Canary Seed,987.0
+1997,67,Canary Seed,750.0
+1998,67,Canary Seed,728.2
+2000,67,Canary Seed,580.2
+2001,67,Canary Seed,533.0
+2002,67,Canary Seed,727.0
+2003,67,Canary Seed,635.0
+2004,67,Canary Seed,1173.0
+2005,67,Canary Seed,1350.0
+2007,67,Canary Seed,846.0
+2010,67,Canary Seed,1326.0
+2011,67,Canary Seed,416.0
+2012,67,Canary Seed,827.0
+2013,67,Canary Seed,1599.0
+2014,67,Canary Seed,1402.13
+2015,67,Canary Seed,1774.81
+2016,67,Canary Seed,1950.0
+2017,67,Canary Seed,1070.45
+2018,67,Canary Seed,1548.0
+2020,67,Canary Seed,2108.0
+2021,67,Canary Seed,1411.0
+2023,67,Canary Seed,1433.0
+2024,67,Canary Seed,1590.0
+2025,67,Canary Seed,2076.0
+1992,137,Canary Seed,900.0
+1994,137,Canary Seed,1400.0
+1995,137,Canary Seed,1000.0
+1996,137,Canary Seed,1100.0
+1997,137,Canary Seed,1050.0
+1998,137,Canary Seed,900.0
+1992,159,Canary Seed,895.0
+1993,159,Canary Seed,990.0
+1994,159,Canary Seed,1199.0
+1995,159,Canary Seed,933.0
+1996,159,Canary Seed,1003.0
+1997,159,Canary Seed,1020.6
+1998,159,Canary Seed,1117.3
+1999,159,Canary Seed,1574.9
+2000,159,Canary Seed,1134.6
+2001,159,Canary Seed,844.0
+2002,159,Canary Seed,879.0
+2003,159,Canary Seed,760.0
+2004,159,Canary Seed,883.0
+2005,159,Canary Seed,1053.0
+2006,159,Canary Seed,947.0
+2007,159,Canary Seed,940.0
+2008,159,Canary Seed,1123.0
+2009,159,Canary Seed,1408.0
+2010,159,Canary Seed,824.0
+2011,159,Canary Seed,969.0
+2012,159,Canary Seed,1224.0
+2013,159,Canary Seed,1507.0
+2014,159,Canary Seed,906.02
+2015,159,Canary Seed,1032.24
+2016,159,Canary Seed,1847.0
+2017,159,Canary Seed,948.13
+2018,159,Canary Seed,1307.0
+2019,159,Canary Seed,2079.0
+2020,159,Canary Seed,1581.0
+2021,159,Canary Seed,919.0
+2022,159,Canary Seed,1705.7
+2023,159,Canary Seed,1953.9
+2024,159,Canary Seed,1483.0
+2025,159,Canary Seed,1886.0
+1992,161,Canary Seed,1000.0
+1993,161,Canary Seed,1500.0
+1994,161,Canary Seed,700.0
+1995,161,Canary Seed,1000.0
+1996,161,Canary Seed,1014.0
+1997,161,Canary Seed,874.8
+1998,161,Canary Seed,1188.1
+1999,161,Canary Seed,568.0
+2000,161,Canary Seed,755.7
+2001,161,Canary Seed,490.0
+2002,161,Canary Seed,708.0
+2004,161,Canary Seed,1122.0
+2005,161,Canary Seed,1637.0
+2009,161,Canary Seed,1328.0
+2010,161,Canary Seed,1015.0
+2011,161,Canary Seed,1265.0
+2012,161,Canary Seed,1504.0
+2013,161,Canary Seed,1824.0
+2014,161,Canary Seed,860.45
+2015,161,Canary Seed,606.67
+2016,161,Canary Seed,1809.0
+2017,161,Canary Seed,1538.57
+2020,161,Canary Seed,1000.0
+2021,161,Canary Seed,1250.0
+1995,244,Canary Seed,1000.0
+1996,244,Canary Seed,1000.0
+1992,290,Canary Seed,945.0
+1993,290,Canary Seed,1110.0
+1994,290,Canary Seed,1103.0
+1995,290,Canary Seed,759.0
+1996,290,Canary Seed,1182.0
+1997,290,Canary Seed,1006.1
+1998,290,Canary Seed,1292.2
+1999,290,Canary Seed,913.4
+2000,290,Canary Seed,694.1
+2001,290,Canary Seed,384.0
+2002,290,Canary Seed,317.0
+2003,290,Canary Seed,828.0
+2004,290,Canary Seed,956.0
+2005,290,Canary Seed,1401.0
+2006,290,Canary Seed,768.0
+2007,290,Canary Seed,754.0
+2008,290,Canary Seed,1127.0
+2009,290,Canary Seed,841.0
+2010,290,Canary Seed,590.0
+2011,290,Canary Seed,1019.0
+2012,290,Canary Seed,997.0
+2013,290,Canary Seed,1097.0
+2014,290,Canary Seed,1033.61
+2015,290,Canary Seed,1088.12
+2016,290,Canary Seed,1084.0
+2017,290,Canary Seed,1129.8
+2018,290,Canary Seed,1161.0
+2019,290,Canary Seed,662.0
+2020,290,Canary Seed,1343.0
+2021,290,Canary Seed,622.0
+2022,290,Canary Seed,1239.0
+2023,290,Canary Seed,758.4
+2024,290,Canary Seed,1425.0
+2025,290,Canary Seed,1820.0
+1994,344,Canary Seed,900.0
+1996,344,Canary Seed,1114.0
+1997,344,Canary Seed,726.6
+1998,344,Canary Seed,699.6
+1999,344,Canary Seed,1500.0
+2000,344,Canary Seed,1200.0
+2001,344,Canary Seed,650.0
+2002,344,Canary Seed,358.0
+2003,344,Canary Seed,650.0
+2004,344,Canary Seed,1200.0
+2006,344,Canary Seed,1200.0
+2007,344,Canary Seed,900.0
+2021,344,Canary Seed,450.0
+2022,344,Canary Seed,1500.0
+1993,437,Canary Seed,1500.0
+1994,437,Canary Seed,1200.0
+1996,437,Canary Seed,1800.0
+1997,437,Canary Seed,1075.0
+1998,437,Canary Seed,966.9
+2001,437,Canary Seed,436.0
+2002,437,Canary Seed,342.0
+2004,437,Canary Seed,1143.0
+2005,437,Canary Seed,1174.0
+2010,437,Canary Seed,1010.0
+2011,437,Canary Seed,1313.0
+2013,437,Canary Seed,1001.0
+2014,437,Canary Seed,899.48
+1996,461,Canary Seed,750.0
+1998,461,Canary Seed,990.0
+2002,461,Canary Seed,300.0
+2003,461,Canary Seed,300.0
+2004,461,Canary Seed,730.0
+2010,461,Canary Seed,858.0
+1996,5,Spring Rye,0.0
+2014,5,Spring Rye,0.0
+1996,67,Spring Rye,0.0
+2014,67,Spring Rye,0.0
+1992,137,Spring Rye,25.0
+1994,137,Spring Rye,25.0
+1996,137,Spring Rye,0.0
+2014,137,Spring Rye,0.0
+1996,159,Spring Rye,0.0
+2014,159,Spring Rye,0.0
+1996,161,Spring Rye,0.0
+2014,161,Spring Rye,0.0
+1996,244,Spring Rye,0.0
+2014,244,Spring Rye,0.0
+1996,290,Spring Rye,0.0
+2014,290,Spring Rye,0.0
+1996,344,Spring Rye,0.0
+1999,344,Spring Rye,25.0
+2000,344,Spring Rye,20.0
+2001,344,Spring Rye,15.0
+2002,344,Spring Rye,11.5
+2014,344,Spring Rye,0.0
+1996,437,Spring Rye,0.0
+2014,437,Spring Rye,0.0
+1992,461,Spring Rye,20.0
+1993,461,Spring Rye,20.0
+1994,461,Spring Rye,20.0
+1996,461,Spring Rye,30.0
+1998,461,Spring Rye,28.0
+2014,461,Spring Rye,0.0
+1984,5,Tame Hay,0.52
+1985,5,Tame Hay,0.43
+1986,5,Tame Hay,2.0
+1987,5,Tame Hay,0.9
+1988,5,Tame Hay,0.46
+1989,5,Tame Hay,0.38
+1990,5,Tame Hay,2.0
+1991,5,Tame Hay,0.87
+1992,5,Tame Hay,0.75
+1993,5,Tame Hay,1.0
+1994,5,Tame Hay,1.5
+1995,5,Tame Hay,1.3
+1996,5,Tame Hay,1.0
+1997,5,Tame Hay,0.6
+2014,5,Tame Hay,0.0
+1984,67,Tame Hay,0.27
+1985,67,Tame Hay,0.7
+1986,67,Tame Hay,1.9
+1987,67,Tame Hay,1.42
+1988,67,Tame Hay,0.23
+1989,67,Tame Hay,1.17
+1990,67,Tame Hay,0.8
+1991,67,Tame Hay,1.38
+1992,67,Tame Hay,0.83
+1993,67,Tame Hay,1.5
+1994,67,Tame Hay,1.75
+1995,67,Tame Hay,1.93
+1996,67,Tame Hay,2.0
+1997,67,Tame Hay,0.9
+2014,67,Tame Hay,0.0
+1984,137,Tame Hay,0.8
+1985,137,Tame Hay,0.33
+1986,137,Tame Hay,1.81
+1987,137,Tame Hay,1.6
+1988,137,Tame Hay,0.4
+1989,137,Tame Hay,1.8
+1990,137,Tame Hay,0.95
+1991,137,Tame Hay,2.34
+1992,137,Tame Hay,0.33
+1993,137,Tame Hay,0.66
+1994,137,Tame Hay,1.5
+1995,137,Tame Hay,1.02
+1996,137,Tame Hay,2.0
+1997,137,Tame Hay,1.4
+2014,137,Tame Hay,0.0
+1984,159,Tame Hay,0.47
+1985,159,Tame Hay,0.93
+1986,159,Tame Hay,1.9
+1987,159,Tame Hay,1.35
+1988,159,Tame Hay,0.13
+1989,159,Tame Hay,1.3
+1990,159,Tame Hay,1.5
+1991,159,Tame Hay,1.5
+1992,159,Tame Hay,0.8
+1993,159,Tame Hay,2.5
+1995,159,Tame Hay,0.9
+1996,159,Tame Hay,1.1
+1997,159,Tame Hay,1.1
+2014,159,Tame Hay,0.0
+1984,161,Tame Hay,0.25
+1985,161,Tame Hay,0.67
+1986,161,Tame Hay,1.22
+1987,161,Tame Hay,1.58
+1988,161,Tame Hay,0.4
+1989,161,Tame Hay,1.75
+1990,161,Tame Hay,1.4
+1991,161,Tame Hay,1.0
+1992,161,Tame Hay,0.53
+1995,161,Tame Hay,1.34
+1996,161,Tame Hay,1.3
+1997,161,Tame Hay,1.3
+2014,161,Tame Hay,0.0
+1984,244,Tame Hay,1.62
+1985,244,Tame Hay,1.85
+1986,244,Tame Hay,2.03
+1987,244,Tame Hay,1.75
+1988,244,Tame Hay,1.2
+1989,244,Tame Hay,1.2
+1990,244,Tame Hay,1.25
+1991,244,Tame Hay,2.0
+1992,244,Tame Hay,1.0
+1994,244,Tame Hay,2.0
+1995,244,Tame Hay,1.53
+1996,244,Tame Hay,1.0
+1997,244,Tame Hay,1.3
+2014,244,Tame Hay,0.0
+1984,290,Tame Hay,0.52
+1985,290,Tame Hay,0.5
+1986,290,Tame Hay,1.0
+1987,290,Tame Hay,0.2
+1988,290,Tame Hay,0.25
+1989,290,Tame Hay,0.5
+1990,290,Tame Hay,0.43
+1991,290,Tame Hay,1.75
+1992,290,Tame Hay,0.7
+1994,290,Tame Hay,1.2
+1995,290,Tame Hay,0.73
+1996,290,Tame Hay,1.5
+1997,290,Tame Hay,1.1
+2014,290,Tame Hay,0.0
+1984,344,Tame Hay,1.04
+1985,344,Tame Hay,1.5
+1986,344,Tame Hay,1.49
+1987,344,Tame Hay,0.94
+1988,344,Tame Hay,1.07
+1989,344,Tame Hay,1.84
+1990,344,Tame Hay,1.08
+1991,344,Tame Hay,1.47
+1992,344,Tame Hay,0.4
+1993,344,Tame Hay,1.0
+1994,344,Tame Hay,1.5
+1995,344,Tame Hay,0.91
+1996,344,Tame Hay,1.7
+1997,344,Tame Hay,1.5
+2014,344,Tame Hay,0.0
+1984,437,Tame Hay,1.5
+1985,437,Tame Hay,1.25
+1986,437,Tame Hay,1.6
+1987,437,Tame Hay,1.7
+1988,437,Tame Hay,1.0
+1989,437,Tame Hay,1.37
+1990,437,Tame Hay,1.5
+1991,437,Tame Hay,2.0
+1992,437,Tame Hay,1.5
+1994,437,Tame Hay,1.5
+1995,437,Tame Hay,0.97
+1996,437,Tame Hay,1.1
+1997,437,Tame Hay,1.8
+2014,437,Tame Hay,0.0
+1984,461,Tame Hay,2.4
+1985,461,Tame Hay,2.0
+1986,461,Tame Hay,2.0
+1987,461,Tame Hay,1.69
+1988,461,Tame Hay,1.6
+1989,461,Tame Hay,1.16
+1990,461,Tame Hay,1.8
+1991,461,Tame Hay,2.07
+1992,461,Tame Hay,1.25
+1993,461,Tame Hay,0.5
+1994,461,Tame Hay,1.5
+1995,461,Tame Hay,0.81
+1996,461,Tame Hay,1.4
+1997,461,Tame Hay,1.1
+2014,461,Tame Hay,0.0
+1981,5,Flax,11.0
+1982,5,Flax,16.0
+1983,5,Flax,13.5
+1984,5,Flax,6.7
+1985,5,Flax,10.0
+1986,5,Flax,17.7
+1987,5,Flax,7.8
+1988,5,Flax,8.0
+1989,5,Flax,5.5
+1990,5,Flax,22.0
+1991,5,Flax,8.0
+1992,5,Flax,14.2
+1994,5,Flax,18.0
+1995,5,Flax,17.8
+1996,5,Flax,19.0
+1997,5,Flax,11.2
+1998,5,Flax,16.5
+1999,5,Flax,18.5
+2000,5,Flax,13.7
+2001,5,Flax,17.4
+2002,5,Flax,15.9
+2003,5,Flax,8.3
+2004,5,Flax,12.8
+2005,5,Flax,18.7
+2006,5,Flax,16.2
+2007,5,Flax,19.3
+2008,5,Flax,16.4
+2009,5,Flax,21.0
+2010,5,Flax,19.6
+2011,5,Flax,13.0
+2012,5,Flax,18.0
+2013,5,Flax,16.5
+2014,5,Flax,17.79
+2015,5,Flax,22.05
+2016,5,Flax,22.9
+2017,5,Flax,17.0
+2018,5,Flax,25.0
+2019,5,Flax,14.6
+2020,5,Flax,27.4
+2021,5,Flax,18.0
+2022,5,Flax,28.0
+2023,5,Flax,29.2
+2024,5,Flax,18.4
+2025,5,Flax,31.3
+1981,67,Flax,17.0
+1982,67,Flax,19.0
+1983,67,Flax,14.0
+1984,67,Flax,4.5
+1985,67,Flax,8.8
+1986,67,Flax,19.0
+1987,67,Flax,16.0
+1988,67,Flax,8.2
+1989,67,Flax,8.2
+1990,67,Flax,22.5
+1991,67,Flax,22.0
+1992,67,Flax,20.0
+1993,67,Flax,22.9
+1994,67,Flax,20.9
+1995,67,Flax,21.0
+1996,67,Flax,23.8
+1997,67,Flax,12.8
+1998,67,Flax,18.7
+1999,67,Flax,21.8
+2000,67,Flax,17.0
+2001,67,Flax,14.3
+2002,67,Flax,10.9
+2003,67,Flax,4.9
+2004,67,Flax,13.7
+2005,67,Flax,18.0
+2006,67,Flax,13.5
+2007,67,Flax,19.8
+2008,67,Flax,17.7
+2009,67,Flax,21.7
+2010,67,Flax,17.4
+2011,67,Flax,20.1
+2012,67,Flax,19.8
+2013,67,Flax,29.1
+2014,67,Flax,20.92
+2015,67,Flax,17.9
+2016,67,Flax,24.5
+2017,67,Flax,13.96
+2018,67,Flax,17.3
+2019,67,Flax,17.7
+2020,67,Flax,21.9
+2021,67,Flax,13.5
+2022,67,Flax,32.1
+2023,67,Flax,27.6
+2024,67,Flax,9.8
+2025,67,Flax,29.9
+1981,137,Flax,19.0
+1982,137,Flax,26.0
+1983,137,Flax,15.0
+1984,137,Flax,10.0
+1985,137,Flax,9.7
+1986,137,Flax,12.0
+1987,137,Flax,18.0
+1988,137,Flax,5.0
+1989,137,Flax,20.0
+1990,137,Flax,15.0
+1991,137,Flax,22.0
+1992,137,Flax,15.0
+1993,137,Flax,15.0
+1994,137,Flax,17.3
+1995,137,Flax,16.0
+1996,137,Flax,17.5
+1997,137,Flax,16.0
+1998,137,Flax,12.5
+1999,137,Flax,20.3
+2004,137,Flax,14.4
+2005,137,Flax,21.0
+2006,137,Flax,17.6
+2010,137,Flax,33.0
+2011,137,Flax,24.4
+2012,137,Flax,19.5
+2013,137,Flax,35.6
+2014,137,Flax,25.19
+2015,137,Flax,30.35
+2019,137,Flax,26.3
+2022,137,Flax,15.3
+2023,137,Flax,13.0
+2024,137,Flax,14.5
+2025,137,Flax,39.7
+1981,159,Flax,16.0
+1982,159,Flax,23.0
+1983,159,Flax,16.8
+1984,159,Flax,10.5
+1985,159,Flax,12.8
+1986,159,Flax,21.8
+1987,159,Flax,19.6
+1988,159,Flax,6.4
+1989,159,Flax,13.3
+1990,159,Flax,22.7
+1991,159,Flax,20.0
+1992,159,Flax,9.6
+1993,159,Flax,21.3
+1994,159,Flax,21.8
+1995,159,Flax,23.9
+1996,159,Flax,22.6
+1997,159,Flax,17.6
+1998,159,Flax,22.3
+1999,159,Flax,25.8
+2000,159,Flax,16.0
+2001,159,Flax,20.1
+2002,159,Flax,15.2
+2003,159,Flax,14.7
+2004,159,Flax,11.1
+2005,159,Flax,24.2
+2006,159,Flax,21.4
+2007,159,Flax,20.1
+2008,159,Flax,23.2
+2009,159,Flax,24.2
+2010,159,Flax,22.9
+2011,159,Flax,22.3
+2012,159,Flax,25.3
+2013,159,Flax,24.4
+2014,159,Flax,18.65
+2015,159,Flax,20.46
+2016,159,Flax,28.7
+2017,159,Flax,20.72
+2018,159,Flax,20.7
+2019,159,Flax,24.7
+2020,159,Flax,30.1
+2021,159,Flax,5.2
+2022,159,Flax,27.0
+2024,159,Flax,23.5
+2025,159,Flax,33.2
+1981,161,Flax,16.0
+1982,161,Flax,22.0
+1983,161,Flax,17.5
+1984,161,Flax,9.9
+1985,161,Flax,9.6
+1986,161,Flax,20.1
+1987,161,Flax,21.6
+1988,161,Flax,8.4
+1989,161,Flax,17.2
+1990,161,Flax,25.0
+1991,161,Flax,21.1
+1992,161,Flax,15.0
+1993,161,Flax,25.0
+1994,161,Flax,15.0
+1995,161,Flax,21.6
+1996,161,Flax,29.2
+1997,161,Flax,20.7
+1998,161,Flax,21.6
+1999,161,Flax,23.0
+2000,161,Flax,17.7
+2001,161,Flax,19.4
+2002,161,Flax,13.0
+2003,161,Flax,16.4
+2004,161,Flax,7.7
+2005,161,Flax,22.6
+2006,161,Flax,21.2
+2007,161,Flax,19.3
+2009,161,Flax,23.6
+2010,161,Flax,18.7
+2011,161,Flax,20.0
+2013,161,Flax,41.4
+2014,161,Flax,30.01
+2015,161,Flax,25.67
+2016,161,Flax,36.8
+2017,161,Flax,20.82
+2018,161,Flax,20.8
+2019,161,Flax,21.2
+2020,161,Flax,27.0
+2021,161,Flax,15.7
+2022,161,Flax,31.0
+2023,161,Flax,20.6
+2024,161,Flax,20.5
+2025,161,Flax,28.7
+1981,244,Flax,21.0
+1982,244,Flax,16.0
+1983,244,Flax,15.3
+1984,244,Flax,18.5
+1985,244,Flax,20.6
+1986,244,Flax,20.6
+1987,244,Flax,24.0
+1988,244,Flax,17.4
+1989,244,Flax,13.1
+1990,244,Flax,25.0
+1991,244,Flax,17.7
+1992,244,Flax,16.7
+1993,244,Flax,16.5
+1994,244,Flax,23.3
+1995,244,Flax,22.3
+1996,244,Flax,30.8
+1997,244,Flax,21.5
+1998,244,Flax,19.7
+1999,244,Flax,17.4
+2000,244,Flax,18.7
+2001,244,Flax,19.2
+2002,244,Flax,21.2
+2003,244,Flax,17.3
+2004,244,Flax,10.0
+2008,244,Flax,26.5
+2009,244,Flax,22.5
+2010,244,Flax,17.4
+2011,244,Flax,22.3
+2013,244,Flax,34.7
+2014,244,Flax,17.72
+2015,244,Flax,31.93
+2016,244,Flax,12.3
+1981,290,Flax,15.0
+1982,290,Flax,21.0
+1983,290,Flax,19.1
+1984,290,Flax,13.7
+1985,290,Flax,12.5
+1986,290,Flax,18.0
+1987,290,Flax,12.2
+1988,290,Flax,6.5
+1989,290,Flax,11.8
+1990,290,Flax,8.5
+1991,290,Flax,14.6
+1992,290,Flax,14.8
+1993,290,Flax,25.1
+1994,290,Flax,17.9
+1995,290,Flax,18.1
+1996,290,Flax,22.0
+1998,290,Flax,17.4
+1999,290,Flax,25.2
+2000,290,Flax,15.3
+2003,290,Flax,17.5
+2004,290,Flax,12.8
+2005,290,Flax,20.6
+2006,290,Flax,16.3
+2007,290,Flax,39.4
+2010,290,Flax,15.0
+2011,290,Flax,28.3
+2012,290,Flax,17.2
+2013,290,Flax,29.5
+2014,290,Flax,30.12
+2015,290,Flax,30.11
+2016,290,Flax,21.3
+2017,290,Flax,20.36
+2018,290,Flax,28.0
+2019,290,Flax,16.9
+2020,290,Flax,29.7
+2021,290,Flax,8.6
+2022,290,Flax,21.0
+2023,290,Flax,13.4
+2024,290,Flax,22.2
+2025,290,Flax,32.0
+1981,344,Flax,16.0
+1982,344,Flax,21.0
+1983,344,Flax,16.7
+1984,344,Flax,10.9
+1985,344,Flax,19.3
+1986,344,Flax,21.8
+1987,344,Flax,14.3
+1988,344,Flax,7.4
+1989,344,Flax,13.6
+1990,344,Flax,14.0
+1991,344,Flax,20.0
+1992,344,Flax,15.0
+1993,344,Flax,20.0
+1994,344,Flax,20.0
+1995,344,Flax,19.4
+1996,344,Flax,23.8
+1997,344,Flax,15.5
+1998,344,Flax,12.2
+1999,344,Flax,26.2
+2000,344,Flax,16.7
+2001,344,Flax,11.8
+2002,344,Flax,11.0
+2003,344,Flax,14.0
+2004,344,Flax,17.1
+2005,344,Flax,22.6
+2006,344,Flax,21.5
+2007,344,Flax,16.2
+2008,344,Flax,21.1
+2009,344,Flax,26.1
+2010,344,Flax,17.8
+2011,344,Flax,21.1
+2012,344,Flax,19.2
+2013,344,Flax,26.4
+2014,344,Flax,20.67
+2015,344,Flax,25.01
+2016,344,Flax,25.9
+2017,344,Flax,27.01
+2018,344,Flax,23.9
+2019,344,Flax,29.0
+2020,344,Flax,21.6
+2021,344,Flax,9.5
+2022,344,Flax,16.9
+2023,344,Flax,20.0
+2025,344,Flax,37.7
+1981,437,Flax,21.0
+1982,437,Flax,27.0
+1983,437,Flax,21.6
+1984,437,Flax,16.1
+1985,437,Flax,17.8
+1986,437,Flax,20.6
+1987,437,Flax,24.0
+1988,437,Flax,21.3
+1989,437,Flax,18.9
+1990,437,Flax,21.7
+1991,437,Flax,20.2
+1992,437,Flax,20.7
+1993,437,Flax,20.0
+1994,437,Flax,21.7
+1995,437,Flax,18.5
+1996,437,Flax,25.0
+1997,437,Flax,14.8
+1998,437,Flax,19.9
+1999,437,Flax,18.4
+2000,437,Flax,21.6
+2001,437,Flax,17.4
+2002,437,Flax,8.7
+2003,437,Flax,8.7
+2004,437,Flax,17.4
+2006,437,Flax,19.0
+2010,437,Flax,21.8
+2011,437,Flax,26.1
+2013,437,Flax,31.0
+2014,437,Flax,26.26
+2015,437,Flax,27.5
+2016,437,Flax,30.0
+2018,437,Flax,33.0
+2019,437,Flax,33.9
+2020,437,Flax,29.8
+2021,437,Flax,11.3
+2022,437,Flax,33.3
+2023,437,Flax,15.0
+2024,437,Flax,24.0
+2025,437,Flax,27.4
+1981,461,Flax,20.0
+1982,461,Flax,18.0
+1983,461,Flax,19.0
+1984,461,Flax,20.0
+1985,461,Flax,25.0
+1986,461,Flax,22.8
+1987,461,Flax,21.7
+1988,461,Flax,15.7
+1989,461,Flax,10.3
+1990,461,Flax,23.7
+1991,461,Flax,18.9
+1992,461,Flax,12.0
+1993,461,Flax,16.3
+1994,461,Flax,18.9
+1995,461,Flax,13.4
+1997,461,Flax,15.4
+1998,461,Flax,20.2
+1999,461,Flax,19.8
+2000,461,Flax,17.4
+2001,461,Flax,27.5
+2002,461,Flax,10.0
+2003,461,Flax,15.0
+2004,461,Flax,17.6
+2005,461,Flax,22.0
+2008,461,Flax,24.7
+2009,461,Flax,22.3
+2010,461,Flax,16.7
+2011,461,Flax,24.0
+2012,461,Flax,20.6
+2013,461,Flax,25.8
+2014,461,Flax,16.46
+2015,461,Flax,23.76
+2016,461,Flax,28.5
+2017,461,Flax,31.09
+2018,461,Flax,31.0
+2019,461,Flax,35.4
+2020,461,Flax,30.0
+2021,461,Flax,14.8
+2022,461,Flax,28.0
+2023,461,Flax,17.8
+2024,461,Flax,30.0
+2025,461,Flax,25.8
+2018,67,Chickpeas,1834.0
+2020,67,Chickpeas,1200.0
+2025,67,Chickpeas,1739.0
+2010,137,Chickpeas,293.0
+2018,137,Chickpeas,1746.0
+2019,137,Chickpeas,2015.0
+2020,137,Chickpeas,1823.0
+2022,137,Chickpeas,1485.9
+2023,137,Chickpeas,1276.5
+2024,137,Chickpeas,1083.0
+2025,137,Chickpeas,2473.0
+2012,159,Chickpeas,2759.0
+2020,159,Chickpeas,2400.0
+2024,159,Chickpeas,2400.0
+2025,159,Chickpeas,3300.0
+2006,161,Chickpeas,1508.0
+2007,161,Chickpeas,2257.0
+2010,161,Chickpeas,932.0
+2011,161,Chickpeas,2285.0
+2012,161,Chickpeas,2572.0
+2013,161,Chickpeas,2770.0
+2016,161,Chickpeas,337.0
+2017,161,Chickpeas,1762.35
+2018,161,Chickpeas,1867.0
+2019,161,Chickpeas,2161.0
+2020,161,Chickpeas,2215.0
+2021,161,Chickpeas,1762.0
+2022,161,Chickpeas,3496.0
+2023,161,Chickpeas,2270.8
+2024,161,Chickpeas,2630.0
+2025,161,Chickpeas,3049.0
+2005,290,Chickpeas,1800.0
+2010,290,Chickpeas,706.0
+2011,290,Chickpeas,1909.0
+2015,290,Chickpeas,1439.91
+2019,290,Chickpeas,1367.0
+2023,290,Chickpeas,1679.9
+2024,290,Chickpeas,2493.0
+2025,290,Chickpeas,3077.0
+2021,344,Chickpeas,360.0
+2022,344,Chickpeas,1250.0
