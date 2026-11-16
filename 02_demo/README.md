@@ -1,6 +1,8 @@
 # Demo
 
-One demo, two sides. Serve the repository folder and open it in a browser:
+One demo, two sides. Live at https://huiliijiang.github.io/field-shift/
+
+To run it locally, serve the repository folder and open it in a browser:
 
 ```sh
 python3 -m http.server 8817     # from the repository root

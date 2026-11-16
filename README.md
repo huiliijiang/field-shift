@@ -13,6 +13,10 @@ Farmers choose next year's crops in autumn, months before they know the summer. 
 
 ## Open the demo
 
+**Live:** https://huiliijiang.github.io/field-shift/
+
+Or run it locally:
+
 ```sh
 python3 -m http.server 8817
 ```
